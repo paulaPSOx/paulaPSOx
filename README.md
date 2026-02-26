@@ -1,11 +1,11 @@
-<!-- ================= BANNER PREMIUM ================= -->
+<!-- ===================== HEADER PREMIUM ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,25:1E3A8A,50:6A5ACD,75:FF512F,100:000000&text=Paula%20Oliveira&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <b>Front-end Developer Júnior</b> • <b>Cloud Foundations</b> • <b>Dev Mindset</b>
+  <strong>Front-end Developer Júnior</strong> • <strong>Cloud Foundations</strong> • <strong>Dev Mindset</strong>
 </p>
 
 <p align="center">
@@ -14,35 +14,43 @@
 
 ---
 
-# 👩🏻‍💻 SOBRE MIM
+# 👋🏻 Olá! Que bom ver você por aqui.
+
+Seja muito bem-vindo(a) ao meu GitHub!  
+Aqui você encontrará meus principais projetos em **Desenvolvimento Front-end**, além da minha evolução técnica e foco profissional.
+
+---
+
+# 👩🏻‍💻 Sobre mim
 
 🎓 Tecnóloga em **Análise e Desenvolvimento de Sistemas – FATEC-SP**  
-☁️ Formação prática em **Cloud Computing – AWS re/Start (Escola da Nuvem)**  
+☁️ Formação em **Cloud Computing – AWS re/Start (Escola da Nuvem)**  
 📍 Brasil  
 
 Sou Desenvolvedora **Front-end Júnior** com foco em:
 
-✔ Estrutura e organização de código  
-✔ Interfaces responsivas e acessíveis  
-✔ Performance básica e boas práticas  
-✔ Deploy de aplicações front-end na AWS  
+✔ Estrutura semântica  
+✔ Organização e legibilidade de código  
+✔ Responsividade  
+✔ Fundamentos de performance  
+✔ Deploy de aplicações na AWS  
 
 Eu não penso apenas na interface.
 
 Eu penso em:
 
-- Onde a aplicação roda  
-- Como ela é publicada  
+- Como a aplicação é publicada  
+- Onde ela roda  
 - Como permissões impactam segurança  
 - Como estrutura influencia escalabilidade  
 
-🎯 Objetivo 2026: Consolidar posição como **Front-end Developer Júnior com diferencial em Cloud**.
+🎯 **Objetivo 2026:** Consolidar posição como Front-end Developer Júnior com diferencial em Cloud.
 
 ---
 
-# 🚀 STACK TÉCNICA
+# 🚀 Stack Técnica
 
-## 💻 Front-end Development
+## 💻 Front-end
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github&perline=5" />
@@ -52,59 +60,57 @@ Eu penso em:
 ✔ CSS3 (Flexbox, Grid, Responsividade)  
 ✔ JavaScript (ES6+)  
 ✔ Manipulação de DOM  
-✔ Organização modular de código  
+✔ Organização modular  
 ✔ Versionamento com Git  
 
 ---
 
-## ☁️ Cloud & Deploy Foundations
+## ☁️ Cloud & Deploy
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws&perline=1" />
 </p>
 
-✔ Amazon EC2 (provisionamento e configuração)  
-✔ Amazon S3 (hospedagem estática)  
-✔ IAM (controle de acesso e permissões)  
-✔ Fundamentos de VPC e redes  
+✔ Amazon EC2  
+✔ Amazon S3 (static hosting)  
+✔ IAM (controle de permissões)  
+✔ Fundamentos de VPC  
 ✔ Conceitos básicos de CI/CD  
-✔ Publicação de aplicações front-end na AWS  
+✔ Deploy de aplicações Front-end na AWS  
 
 ---
 
-# 💼 COMPETÊNCIAS-CHAVE (ATS)
+# 💼 Competências (ATS Optimized)
 
-Front-end Developer • HTML5 • CSS3 • JavaScript • Responsive Design • Web Development • Clean Code • Code Organization • UI Development • UX Fundamentals • AWS Cloud • EC2 • S3 • IAM • VPC • Git • GitHub • Cloud Foundations • Deploy • Version Control • Infraestrutura em Nuvem • Desenvolvimento Web
+Front-end Developer • HTML5 • CSS3 • JavaScript • Responsive Design • Web Development • Clean Code • UI Development • UX Fundamentals • Git • GitHub • AWS • EC2 • S3 • IAM • Cloud Foundations • Deploy • Version Control • Desenvolvimento Web • Infraestrutura em Nuvem
 
 ---
 
-# 🌟 PROJETOS EM DESTAQUE
+# 🌟 Projetos em Destaque
 
 ## 🍄 Super Mario Bros – Interactive Landing Page
 - HTML, CSS, JavaScript  
 - Layout responsivo  
-- Estrutura semântica  
-- Organização clara de código  
+- Estrutura organizada  
 
-## 🦸 Marvel – Character Interface
+## 🦸 Marvel – Interface Interativa
 - Manipulação de DOM  
-- Interações baseadas em eventos  
-- Separação de responsabilidades  
+- Eventos e interações  
+- Código estruturado  
 
-## 👽 Ben 10 – Transformations Experience
-- Lógica dinâmica em JavaScript  
-- Transições e organização estrutural  
-
-## ⚡ Pokémon – Interactive Card List
+## 👽 Ben 10 – Transformações Dinâmicas
+- Lógica em JavaScript  
 - Interface interativa  
-- Responsividade  
-- Estrutura escalável  
+- Organização modular  
 
-Todos os projetos demonstram evolução prática e aplicação real de fundamentos.
+## ⚡ Pokémon – Card Selection UI
+- Experiência interativa  
+- Responsividade  
+- Separação de responsabilidades  
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
@@ -113,33 +119,46 @@ Todos os projetos demonstram evolução prática e aplicação real de fundament
 
 ---
 
-# 🌱 EM EVOLUÇÃO
+# 🌱 Em Evolução
 
 🚀 Aprofundando JavaScript  
-🚀 Melhorando padrões de organização  
+🚀 Boas práticas de organização  
 🚀 Integração Front-end + AWS  
 🚀 Automatização de deploy  
-🚀 Boas práticas para aplicações escaláveis  
+🚀 Estrutura para aplicações escaláveis  
 
 ---
 
-# 🤝 OPORTUNIDADES
+# 🤝 Oportunidades
 
 Aberta para:
 
 • Front-end Developer Júnior  
-• Cloud Júnior  
 • Estágio em Desenvolvimento  
+• Cloud Júnior  
 • Projetos colaborativos  
 
 ---
 
-# 📬 CONTATO
+# 🌐 Contato
 
-📩 Email: oliveira.paula2051@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/oliveiraspaula  
+<p>
+<a href="mailto:oliveira.paula2051@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/oliveiraspaula">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/paulaPSOx">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
+
+<p align="center">
+  💙 Construindo minha trajetória na tecnologia com estratégia, estrutura e consistência.
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:6A5ACD,100:FF512F&section=footer"/>
