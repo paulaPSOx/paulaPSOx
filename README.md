@@ -1,7 +1,9 @@
-# 🌌 Paula Oliveira | Front-end Developer ☁️ Cloud & DevOps Enthusiast
+# 🌌 Paula Oliveira
+
+### Front-end Developer | Cloud & DevOps Enthusiast ☁️
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff512f&height=180&section=header&text=Paula%20Oliveira&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff512f&height=190&section=header&text=Paula%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -18,29 +20,32 @@
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 Technologist in **Systems Analysis and Development**
+🎓 Technologist in Systems Analysis and Development
 ☁️ Cloud Computing Student (AWS re/Start – Escola da Nuvem)
-💻 Front-end Developer focused on **performance, scalability and user experience**
+💻 Front-end Developer focused on performance, scalability and user experience
 📍 Brazil
 
-I build **responsive web applications** using modern Front-end technologies and apply **Cloud & DevOps fundamentals** to deploy and manage applications in production environments.
+I build **modern, responsive and scalable web applications** using React and JavaScript.
 
-I don't just create interfaces —
-I design solutions thinking about:
+But I go beyond interface development.
 
-* Performance
-* Scalability
-* Deployment
-* Clean Code
-* User Experience
+I understand:
 
-🎯 **Career Goal 2026:** Front-end Developer Júnior with Cloud & DevOps knowledge.
+* How applications are deployed
+* How infrastructure supports performance
+* How version control enables collaboration
+* How cloud services sustain production environments
+
+I don’t just build screens.
+I build solutions ready for real-world environments.
+
+🎯 **2026 Career Goal:** Front-end Developer Júnior with strong Cloud & DevOps fundamentals.
 
 ---
 
-# 🚀 Technical Skills (ATS Optimized)
+# 🚀 Technical Stack
 
 ## 💻 Front-end Development
 
@@ -50,13 +55,16 @@ I design solutions thinking about:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black\&labelColor=000000)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white\&labelColor=000000)
 
-✔ Responsive Design (Flexbox & Grid)
-✔ DOM Manipulation
-✔ ES6+ JavaScript
-✔ Component-based architecture
-✔ UI/UX fundamentals
-✔ Cross-browser compatibility
-✔ Accessibility basics
+**Core Competencies:**
+
+* Responsive Design (Flexbox & Grid)
+* Component-based architecture
+* ES6+ JavaScript
+* DOM manipulation
+* Performance optimization
+* UI/UX fundamentals
+* Accessibility basics
+* Clean and maintainable code
 
 ---
 
@@ -66,25 +74,28 @@ I design solutions thinking about:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white\&labelColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=000000)
 
-✔ Amazon EC2 (Instance provisioning & configuration)
-✔ Amazon S3 (Static website hosting)
-✔ IAM (Users & permission management)
-✔ CloudFront (CDN basics)
-✔ Git workflow (branching, pull requests, version control)
-✔ Basic CI/CD concepts
-✔ Deploying front-end apps to AWS
+* Amazon EC2 (Instance provisioning & configuration)
+* Amazon S3 (Static website hosting)
+* IAM (User & permission management)
+* CloudFront (CDN basics)
+* Git workflow (branching, pull requests)
+* CI/CD fundamentals
+* Front-end deployment to AWS
 
 ---
 
-# 💼 Core Competencies
+# 💼 What Makes Me Different
 
-* Front-end Web Development
-* Clean Code & Code Organization
-* Performance Optimization
-* Cloud Deployment
-* Infrastructure Fundamentals
-* Agile mindset
-* Problem-solving
+Many front-end developers stop at the UI.
+
+I understand:
+
+✔ How to deploy applications to AWS
+✔ How infrastructure impacts performance
+✔ How version control structures teamwork
+✔ How CI/CD improves delivery speed
+
+That combination makes me production-oriented.
 
 ---
 
@@ -92,38 +103,37 @@ I design solutions thinking about:
 
 ## 🍄 Super Mario Bros – Interactive Landing Page
 
-Responsive landing page inspired by the movie universe.
-**Tech:** HTML, CSS, JavaScript
-✔ Interactive UI
+Responsive landing page inspired by cinematic universes.
 ✔ Semantic HTML
-✔ Organized structure
+✔ Responsive layout
+✔ Interactive JavaScript
 
 ---
 
 ## 🦸 Marvel – Character Selection Interface
 
-Dynamic character interface with DOM manipulation.
-✔ Event-driven interactions
+Dynamic interface with DOM manipulation and event-driven logic.
+✔ Structured architecture
 ✔ Clean styling
-✔ Structured layout
+✔ Interactive UX
 
 ---
 
-## 👽 Ben 10 – Alien Transformations
+## 👽 Ben 10 – Alien Transformations Experience
 
-Interactive experience simulating Omnitrix transformations.
-✔ Animated transitions
-✔ Dynamic UI logic
+Simulated transformation system with animated transitions.
+✔ UI logic
 ✔ Code organization
+✔ Visual interaction
 
 ---
 
-## ⚡ Pokémon – Interactive Card List
+## ⚡ Pokémon – Interactive Card Interface
 
-Dynamic card selection interface.
+Dynamic card selection with responsive design principles.
 ✔ User interaction
-✔ Responsive layout
 ✔ Structured CSS
+✔ Modular layout
 
 ---
 
@@ -136,42 +146,34 @@ Dynamic card selection interface.
 
 ---
 
-# 🌱 Currently Improving
+# 🌱 Currently Leveling Up
 
-🚀 Advanced React patterns
-🚀 CI/CD automation
-🚀 Cloud architecture fundamentals
-🚀 Performance optimization
-🚀 Best practices in scalable applications
-
----
-
-# 🎯 Why Recruiters Should Notice Me
-
-I combine:
-
-💻 Front-end development skills
-☁️ Cloud fundamentals
-🔄 DevOps mindset
-🎨 UI/UX awareness
-
-I understand how applications are built **and** how they run in production.
-
-That’s the difference.
+* Advanced React patterns
+* CI/CD automation pipelines
+* Cloud architecture fundamentals
+* Application performance optimization
+* Scalable front-end structure
 
 ---
 
-# 🤝 Let's Connect
+# 🎯 Professional Objective
 
-✨ Open to:
+Seeking opportunities as:
 
-* Front-end Developer Júnior roles
-* Cloud / DevOps Júnior opportunities
-* Internship & Entry-level Tech Roles
-* Collaborative Projects
+* Front-end Developer Júnior
+* Cloud / DevOps Júnior
+* Entry-level Tech Roles
+* Internship positions
+
+Open to collaboration, learning and high-performance environments.
+
+---
+
+# 🤝 Let’s Connect
 
 📩 Email: [oliveira.paula2051@gmail.com](mailto:oliveira.paula2051@gmail.com)
 💼 LinkedIn: [www.linkedin.com/in/oliveiraspaula](http://www.linkedin.com/in/oliveiraspaula)
+💻 GitHub: github.com/paulaPSOx
 
 ---
 
@@ -180,5 +182,3 @@ That’s the difference.
 </p>
 
 ---
-
-🔥 “Contratável em 90 dias” — estratégia prática para transformar esse posicionamento em emprego real.
