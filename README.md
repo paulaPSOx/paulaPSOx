@@ -1,137 +1,75 @@
-# 🚀 Paula Oliveira | Front-end Developer ☁️ AWS Enthusiast
+# 🌟 Welcome to Paula Oliveira's World 🌟👩‍💻☁️
 
 [![GitHub followers](https://img.shields.io/github/followers/paulaPSOx?style=social)](https://github.com/paulaPSOx)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/oliveiraspaula)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:oliveira.paula2051@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/channels/@paulapsox)
 
 ---
 
-## 👩‍💻 About Me
+## 👋 Hello! I'm Paula, a passionate **Front-end Developer** and aspiring **DevOps/Cloud Engineer**, and a dedicated **Systems Analysis and Development** student from Brazil.
 
-🎓 Technologist in Systems Analysis and Development
-💻 Front-end Developer
-☁️ Cloud Computing Student (AWS re/Start – Escola da Nuvem)
-📍 Brazil
+### 🚀 Current Focus:
 
-I build **responsive, scalable and user-centered web applications** using modern front-end technologies and cloud infrastructure fundamentals.
+I'm currently enhancing my **Front-end development skills** while expanding my knowledge in **Cloud Computing and DevOps fundamentals**.
 
-I combine:
+My passion lies in crafting **beautiful, responsive**, and **user-friendly interfaces**, while also understanding how applications are **deployed, monitored, and scaled in the cloud**.
 
-✔ Clean and semantic code
-✔ Performance optimization
-✔ UI/UX best practices
-✔ Version control workflows (Git/GitHub)
-✔ Cloud deployment strategies (AWS)
+I love combining:
 
-🎯 **Career Objective:** Front-end Developer Júnior with knowledge in Cloud Computing and deployment pipelines.
+* 🎨 Interface design & user experience
+* 💻 Clean and organized code
+* ☁️ Cloud infrastructure fundamentals
+* 🔄 Version control & deployment workflows
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="400px" max-width="400px" width="400px" align="right">
 
 ---
 
-## 🛠️ Technical Skills (ATS Optimized)
+### 🛠️ My Tech Stack:
 
-### 💻 Front-end Development
+#### 💻 Front-end Development
 
-* HTML5
-* CSS3 (Flexbox, Grid, Responsive Design, Media Queries)
-* JavaScript (ES6+)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
+
+* Responsive Design
 * DOM Manipulation
-* React.js (Fundamentals, Components, Props, Hooks)
-* Tailwind CSS
-* UI/UX Principles
-* Accessibility (basic concepts)
-* Cross-browser compatibility
+* Component-based structure
+* UI/UX fundamentals
 
-### ☁️ Cloud & Infrastructure
+---
 
-* Amazon Web Services (AWS)
-* EC2 (Instance provisioning and configuration)
-* S3 (Static website hosting)
-* IAM (User and permission management)
-* CloudFront (Content delivery basics)
+#### ☁️ Cloud & DevOps Fundamentals
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazon-aws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+
+* Amazon EC2 (instance provisioning)
+* Amazon S3 (static website hosting)
+* IAM (users & permissions)
+* CloudFront (content delivery basics)
+* Git workflows (branching, commits, pull requests)
 * Basic CI/CD concepts
-* Git-based deployment workflows
-
-### 🧰 Tools & Workflow
-
-* Git
-* GitHub
-* VS Code
-* Figma
-* Agile mindset
-* Problem-solving
-* Continuous learning
+* Deploying front-end applications to AWS
 
 ---
 
-## 💼 Core Competencies
+### 🌱 Currently Learning:
 
-✔ Responsive Web Development
-✔ Front-end Architecture Organization
-✔ Component-based Design
-✔ Code Readability & Clean Code
-✔ Performance Awareness
-✔ Cloud Deployment Fundamentals
-✔ Collaboration & Version Control
+* Advanced **React.js** patterns
+* CI/CD automation pipelines
+* Infrastructure concepts
+* Performance optimization
+* Best practices in scalable application structure
 
 ---
 
-## 🌟 Featured Projects
-
-### 🍄 Super Mario Bros – Interactive Landing Page
-
-Responsive landing page inspired by the movie universe.
-
-**Tech:** HTML5, CSS3, JavaScript
-**Highlights:**
-
-* Responsive layout
-* Semantic structure
-* Interactive elements
-* Organized codebase
-
----
-
-### 🦸 Marvel – Character Selection Interface
-
-Dynamic character selection interface inspired by the Marvel universe.
-
-**Tech:** HTML5, CSS3, JavaScript
-**Highlights:**
-
-* DOM manipulation
-* Event-driven logic
-* Interactive UI
-* Clean structure
-
----
-
-### 👽 Ben 10 – Alien Transformations
-
-Interactive experience simulating Omnitrix transformations.
-
-**Tech:** HTML5, CSS3, JavaScript
-**Highlights:**
-
-* UI interactivity
-* Visual transitions
-* Component-like structure
-
----
-
-### ⚡ Pokémon – Interactive Card List
-
-Dynamic Pokémon card interface.
-
-**Tech:** HTML5, CSS3, JavaScript
-**Highlights:**
-
-* Interactive selection
-* Structured layout
-* Organized styling
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats:
 
 <div>
    <a href="https://github.com/paulaPSOx">
@@ -141,45 +79,43 @@ Dynamic Pokémon card interface.
 
 ---
 
-## 📈 Currently Improving
+## 🎨 Current Projects:
 
-🚀 Advanced React patterns
-🚀 Performance optimization techniques
-🚀 Clean Code & best practices
-🚀 CI/CD automation
-🚀 Cloud architecture fundamentals
+### 🖥️ Project Highlights
 
----
+* **Super Mario Bros - O Filme 🍄🎬**
+  Recriação inspirada no universo do filme, desenvolvida com **HTML, CSS e JavaScript**, com foco em responsividade, interatividade e organização de código.
 
-## 💡 Professional Mindset
+* **Marvel - Seleção de Personagens 🦸‍♀💥**
+  Interface interativa com manipulação de DOM e troca dinâmica de personagens, focando em experiência do usuário e estrutura limpa.
 
-I focus on delivering applications that are:
+* **Ben 10 - Transformações Alienígenas 👽🌟**
+  Projeto com animações e interações dinâmicas, aplicando organização estrutural e boas práticas de front-end.
 
-* Scalable
-* Performant
-* Maintainable
-* User-friendly
-* Cloud-ready
-
-I don’t just build interfaces —
-I think about how the application will behave in production.
+* **Pokémon - Lista de Cartas 🐱⚡🔥**
+  Interface interativa com foco em layout estruturado, interatividade e experiência visual envolvente.
 
 ---
 
-## 🤝 Let’s Connect
+## 💬 Let's Connect!
 
-I’m open to:
+I’m open to opportunities as:
 
-✨ Front-end Developer Júnior opportunities
-✨ Cloud-based projects
-✨ Internship or entry-level tech roles
-✨ Collaborative development projects
+✨ Front-end Developer Júnior
+✨ DevOps Júnior
+✨ Cloud Support / Cloud Operations
+✨ Entry-level Tech Roles
 
-📩 Email: [oliveira.paula2051@gmail.com](mailto:oliveira.paula2051@gmail.com)
-💼 LinkedIn: [www.linkedin.com/in/oliveiraspaula](http://www.linkedin.com/in/oliveiraspaula)
+I love building interfaces — and now I’m also passionate about understanding how they run in production.
+
+<p align="left">
+  <a href="mailto:oliveira.paula2051@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/oliveiraspaula" title="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://discord.com/channels/@paulapsox" title="Discord"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>
+</p>
 
 ---
 
-✨ *Precision in Analysis. Excellence in Execution.*
+✨ **"Precision in Analysis. Excellence in Execution."**
 
 ---
