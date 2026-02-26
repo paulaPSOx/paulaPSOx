@@ -1,69 +1,72 @@
-<!-- BANNER ESTRATÉGICO -->
+<!-- BANNER PREMIUM -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,30:1E3A8A,60:4B0082,100:FF4500&text=Paula%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,25:1E3A8A,50:4B0082,75:9333EA,100:FF4500&text=Paula%20Oliveira&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-# 👩🏻‍💻 Paula Oliveira
-
-🎯 Desenvolvedora Front-end Júnior  
-☁️ Em formação em Cloud Computing (AWS re/Start)  
-📍 Foco em estrutura, organização e evolução técnica
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Front-end+Developer+em+forma%C3%A7%C3%A3o;Fundamentos+em+AWS+Cloud;Estrutura+%2B+Organiza%C3%A7%C3%A3o+%2B+Infraestrutura;Evoluindo+com+estrat%C3%A9gia+%F0%9F%9A%80"/>
+</p>
 
 ---
 
-## 💼 Proposta de Valor
+# 👩🏻‍💻 Sobre Mim
 
-Desenvolvedora com base sólida em **HTML5, CSS3 e JavaScript**, formada em **Análise e Desenvolvimento de Sistemas (FATEC-SP)**.
+Sou Tecnóloga em **Análise e Desenvolvimento de Sistemas (FATEC-SP)**, com atuação prática em desenvolvimento Front-end e formação complementar em **Cloud Computing (AWS re/Start)**.
 
-Atualmente em formação em **Cloud Computing (AWS re/Start – Escola da Nuvem)**, desenvolvendo fundamentos práticos em infraestrutura AWS.
+Minha construção profissional é híbrida desde o início:
 
-Meu diferencial é pensar além da interface — compreendendo estrutura, organização e fundamentos de nuvem desde o início da carreira.
+💻 Desenvolvimento Web  
+☁️ Fundamentos de Infraestrutura  
+🧠 Visão estrutural de aplicações  
 
 ---
 
-## 🛠️ Stack Técnica
+# 🛠️ Desenvolvimento Front-end
 
-✔ HTML5 (estrutura semântica)  
-✔ CSS3 (Flexbox, Grid, Responsividade)  
+✔ HTML5 (semântico)  
+✔ CSS3 (Responsividade, Flexbox, Grid)  
 ✔ JavaScript  
-✔ Git e GitHub  
-✔ Organização de projetos  
+✔ Versionamento com Git  
+✔ Organização de código  
+
+Foco em:
+
+• Estrutura clara  
+• Interfaces responsivas  
+• Código limpo  
+• Evolução progressiva  
 
 ---
 
-## ☁️ Fundamentos AWS
+# ☁️ Fundamentos Cloud (AWS)
 
-✔ EC2  
-✔ S3  
-✔ IAM  
+✔ Provisionamento de EC2  
+✔ Armazenamento com S3  
+✔ Gerenciamento de permissões com IAM  
 ✔ Conceitos de VPC e redes  
-✔ Segurança básica em nuvem  
+✔ Fundamentos de segurança  
+
+Objetivo estratégico: compreender o ciclo completo da aplicação — da interface à infraestrutura.
 
 ---
 
-## 📌 Perfil Profissional
-
-🧠 Analítica e estruturada  
-📐 Foco em código organizado  
-🚀 Comprometida com evolução contínua  
-📊 Mentalidade de melhoria constante  
-
----
-
-## 🎯 Objetivo
-
-Atuar como **Desenvolvedora Front-end Júnior** ou **Cloud Júnior**, aplicando fundamentos técnicos com responsabilidade e crescimento progressivo.
-
----
-
-## 💼 Palavras-chave (ATS)
-
-Front-end Developer • HTML5 • CSS3 • JavaScript • Responsive Design • Web Development • AWS Cloud • EC2 • S3 • IAM • VPC • Git • GitHub • Version Control • Cloud Foundations • Desenvolvimento Web
-
----
+# 📊 GitHub
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oliveiraspaula">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+# 🎯 Direcionamento 2026
+
+• Consolidar experiência como Front-end Júnior  
+• Integrar projetos com serviços AWS  
+• Fortalecer fundamentos de JavaScript  
+• Evoluir com consistência técnica  
+
+---
+
+# 💼 Keywords Estratégicas
+
+Front-end Developer • HTML5 • CSS3 • JavaScript • Responsive Design • Git • GitHub • AWS Cloud • EC2 • S3 • IAM • VPC • Cloud Foundations • Web Development • Infraestrutura em Nuvem
