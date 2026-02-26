@@ -12,22 +12,21 @@
 
 # 👩🏻‍💻 Quem Sou Eu
 
-Sou **Tecnóloga em Análise e Desenvolvimento de Sistemas (FATEC-SP)**  
-e atualmente estou em formação em **Cloud Computing pelo programa AWS re/Start (Escola da Nuvem)**.
+Sou **Tecnóloga em Análise e Desenvolvimento de Sistemas (FATEC-SP)**, com experiência prática em desenvolvimento **Front-end utilizando HTML5, CSS3 e JavaScript**.
+
+Atualmente estou em formação em **Cloud Computing pelo programa AWS re/Start (Escola da Nuvem)**, desenvolvendo fundamentos sólidos de infraestrutura em nuvem.
 
 Tenho perfil:
 
-🧠 Analítico  
-📐 Organizado  
-🎨 Criativo com responsabilidade  
-🎯 Estratégico e pé no chão  
-📈 Em evolução constante  
+🧠 Estrutura e clareza lógica  
+📐 Organização de código  
+🎨 Criatividade com responsabilidade  
+🎯 Estratégia com pé no chão  
+📈 Evolução profissional contínua  
 
 Gosto de entender profundamente antes de construir.  
 Penso estrutura antes de estética.  
-Busco evolução consistente, não atalhos.
-
-Meu foco é claro: **Front-end Júnior com visão técnica ampliada.**
+Busco crescimento consistente — não atalhos.
 
 ---
 
@@ -37,14 +36,14 @@ Busco oportunidade como:
 
 > 💻 **Desenvolvedora Front-end Júnior**
 
-Com diferencial estratégico em:
+Com diferencial competitivo em:
 
 > ☁️ Fundamentos de infraestrutura AWS  
-> 🧠 Organização e clareza estrutural  
-> 📊 Pensamento analítico aplicado ao código  
+> 🧠 Organização técnica  
+> 📊 Visão estrutural da aplicação  
 
 Não enxergo apenas a interface.  
-Considero também onde, como e sob quais permissões ela roda.
+Considero também onde ela roda, como é publicada e como é protegida.
 
 ---
 
@@ -62,23 +61,36 @@ Considero também onde, como e sob quais permissões ela roda.
 ### 🔧 Versionamento
 ✔ Git  
 ✔ GitHub  
+✔ Organização de repositórios  
 
 ---
 
-# ☁️ Cloud como Diferencial Estratégico
+# ☁️ Cloud Computing — AWS Foundations
 
 Durante minha formação no **AWS re/Start**, desenvolvo práticas envolvendo:
 
 ✔ Provisionamento de instâncias EC2  
 ✔ Configuração de armazenamento com S3  
 ✔ Gerenciamento de permissões com IAM  
-✔ Fundamentos de redes (VPC)  
-✔ Conceitos de segurança em nuvem  
+✔ Aplicação de conceitos de redes com VPC  
+✔ Fundamentos de segurança em nuvem  
 
-Cloud não é meu cargo principal.  
-É minha camada extra de consciência técnica.
+🎯 Objetivo: integrar desenvolvimento web com fundamentos de infraestrutura desde o início da carreira.
 
-Front-end com noção de infraestrutura gera decisões mais maduras.
+Cloud é meu diferencial estratégico — não meu cargo principal.
+
+---
+
+# 🌐 Projetos Front-end
+
+Meus projetos têm foco em:
+
+✔ Interfaces responsivas  
+✔ Estruturação organizada de código  
+✔ Interatividade com JavaScript  
+✔ Versionamento estruturado com GitHub  
+
+Cada repositório demonstra evolução técnica real e compromisso com boas práticas.
 
 ---
 
@@ -90,29 +102,15 @@ Front-end com noção de infraestrutura gera decisões mais maduras.
 3. Organizo o código
 4. Garanto responsividade
 5. Refino a experiência
-````
+```
 
 Princípios:
 
-• Clareza antes de complexidade
-• Estrutura antes de volume
-• Performance antes de excesso
-• Experiência do usuário como prioridade
-• Evolução contínua como regra
-
----
-
-# 🌐 Projetos
-
-Meus projetos demonstram:
-
-✔ Interfaces responsivas
-✔ Organização de código
-✔ Interatividade com JavaScript
-✔ Versionamento estruturado
-✔ Evolução técnica progressiva
-
-Cada repositório representa aprendizado aplicado.
+• Clareza antes de complexidade  
+• Estrutura antes de volume  
+• Performance antes de excesso  
+• Experiência do usuário como prioridade  
+• Evolução contínua como regra  
 
 ---
 
@@ -131,19 +129,19 @@ Cada repositório representa aprendizado aplicado.
 
 # 🎯 Objetivos 2026
 
-• Consolidar posição como Desenvolvedora Front-end Júnior
-• Aprofundar fundamentos de JavaScript
-• Aplicar Cloud em projetos práticos
-• Evoluir tecnicamente com consistência
+• Consolidar posição como Desenvolvedora Front-end Júnior  
+• Aprofundar fundamentos de JavaScript  
+• Evoluir Cloud como diferencial estratégico  
+• Construir projetos com aplicação prática em AWS  
 
 ---
 
 # 🌍 Idiomas
 
-🇺🇸 Inglês – Avançado
-🇪🇸 Espanhol – Básico
-🇮🇹 Italiano – Básico
-🤟 Libras – Básico
+🇺🇸 Inglês – Avançado  
+🇪🇸 Espanhol – Básico  
+🇮🇹 Italiano – Básico  
+🤟 Libras – Básico  
 
 ---
 
@@ -169,4 +167,3 @@ Front-end Developer • HTML5 • CSS3 • JavaScript • Responsive Design • 
 <p align="center">
   💙 <strong>Construindo meu espaço na tecnologia com estratégia, estrutura e consistência.</strong>
 </p>
-```
