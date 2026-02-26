@@ -1,92 +1,88 @@
-<!-- BANNER PERSONALIZADO -->
+<!-- BANNER PROFISSIONAL ESTRATÉGICO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,25:1E3A8A,50:4B0082,75:9333EA,100:FF4500&text=Paula%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,25:1E3A8A,50:4B0082,75:9333EA,100:FF4500&text=Paula%20Oliveira&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- FRASE COM MOVIMENTO -->
+<!-- POSICIONAMENTO CLARO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Front-end+Developer+em+Evolu%C3%A7%C3%A3o;Criatividade+%2B+Estrat%C3%A9gia;React+%7C+JavaScript+%7C+Cloud+AWS;Precis%C3%A3o+na+An%C3%A1lise.+Excel%C3%AAncia+na+Execu%C3%A7%C3%A3o.;Construindo+meu+espa%C3%A7o+na+Tecnologia+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Front-end+Developer;React+%7C+JavaScript+%7C+TypeScript;Cloud+AWS+Foundations;UI+%26+UX+Focused;Precis%C3%A3o+na+An%C3%A1lise.+Excel%C3%AAncia+na+Execu%C3%A7%C3%A3o.;Construindo+solu%C3%A7%C3%B5es+com+prop%C3%B3sito+%F0%9F%9A%80"/>
 </p>
 
 ---
 
-# 👩🏻‍💻 Quem é a Paula?
+# 👩🏻‍💻 Quem Sou Eu
 
-Sou desenvolvedora **Front-end** formada em **Análise e Desenvolvimento de Sistemas (FATEC-SP)**.
+Sou Desenvolvedora **Front-end** formada em **Análise e Desenvolvimento de Sistemas (FATEC-SP)**, com formação complementar em **Cloud Computing (AWS re/Start – Escola da Nuvem)**.
 
-Mas eu não sou só código.
+Tenho perfil **tecnológico e criativo**, combinando:
 
-Sou movida por:
+🧠 Estrutura e organização  
+🎨 Sensibilidade visual  
+📊 Clareza lógica  
+🚀 Mentalidade de evolução contínua  
 
-💙 Curiosidade  
-🧠 Organização  
-🎨 Criatividade  
-🚀 Evolução constante  
-
-Gosto de transformar ideias em interfaces funcionais.  
-Gosto de entender o “porquê” antes do “como”.  
-E gosto de fazer bem feito.
+Meu foco é construir interfaces modernas, organizadas e escaláveis — com visão além do front-end.
 
 ---
 
-# 🎯 Meu Posicionamento
+# 🎯 Meu Posicionamento Profissional
 
-Eu estou construindo minha carreira como:
+Atuo como:
 
-> 💻 Desenvolvedora Front-end  
-> ☁️ Com diferencial em Cloud (AWS)  
-> 🧠 Com visão estratégica de produto  
+> 💻 Front-end Developer  
+> ☁️ Com fundamentos sólidos em AWS  
+> 🧠 Com visão estratégica de produto e arquitetura  
 
-Não quero apenas escrever código.  
-Quero entregar solução.
+Diferencial competitivo: não enxergo apenas a interface, mas todo o fluxo da aplicação.
 
 ---
 
-# 🛠️ Minha Stack
+# 🛠️ Stack Técnica
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,git,github,aws,vscode&perline=5" />
 </p>
 
----
+### Competências Técnicas
 
-# ☁️ Cloud faz parte da minha identidade
-
-Enquanto muitos focam só no front…
-
-Eu também estudo:
-
-- Deploy com S3
-- EC2
-- IAM
-- Fundamentos de infraestrutura
-- Estruturação profissional de repositórios
-- Versionamento estratégico
-
-Porque eu quero entender o sistema inteiro.
+✔ HTML5 semântico  
+✔ CSS3 (Flexbox, Grid, Responsividade)  
+✔ JavaScript ES6+  
+✔ React  
+✔ TypeScript (em evolução)  
+✔ Versionamento com Git  
+✔ Estruturação de projetos  
+✔ Organização de código  
 
 ---
 
-# 🔥 O que você vai encontrar aqui
+# ☁️ Cloud & Dev Foundations
 
-✨ Projetos em React  
-✨ Interfaces responsivas  
-✨ Código organizado  
-✨ Evolução visível  
-✨ Comprometimento real  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions&perline=3" />
+</p>
 
----
+✔ Deploy de aplicações front-end em S3  
+✔ Provisionamento de instâncias EC2  
+✔ Controle de acesso com IAM  
+✔ Fundamentos de CI/CD  
+✔ Estruturação profissional de repositórios  
 
-# 🧠 Como eu penso código
-
-✔ Clareza antes de complexidade  
-✔ Organização antes de volume  
-✔ Performance antes de excesso  
-✔ Evolução contínua  
+Objetivo: integrar desenvolvimento + infraestrutura desde o início da carreira.
 
 ---
 
-# 📊 Minha evolução
+# 🚀 Como Eu Penso Desenvolvimento
+
+- Clareza antes de complexidade  
+- Estrutura antes de volume  
+- Performance antes de excesso  
+- Experiência do usuário como prioridade  
+- Evolução contínua como regra  
+
+---
+
+# 📊 Evolução Técnica
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -99,27 +95,32 @@ Porque eu quero entender o sistema inteiro.
 
 ---
 
-# 🚀 Objetivo 2026
+# 🎯 Objetivos 2026
 
-- Consolidar minha vaga como Front-end Júnior
-- Aprofundar React + TypeScript
-- Implementar CI/CD real
-- Evoluir Cloud como diferencial competitivo
-
----
-
-# 💬 Um pouco além da tecnologia
-
-🎵 Gosto de música  
-📚 Gosto de aprender  
-🧠 Gosto de entender como as coisas funcionam  
-
-E tecnologia é exatamente isso:  
-Entender. Construir. Evoluir.
+- Consolidar posição como Front-end Júnior  
+- Aprofundar React + TypeScript  
+- Implementar CI/CD real em projetos próprios  
+- Evoluir Cloud como diferencial estratégico  
 
 ---
 
-# 🌐 Vamos nos conectar?
+# 💼 Palavras-chave Estratégicas (ATS)
+
+Front-end Developer • React Developer • JavaScript • TypeScript • HTML5 • CSS3 • Responsive Design • UI Development • UX Focus • AWS Cloud • S3 • EC2 • IAM • Git • GitHub • CI/CD • Cloud Foundations • DevOps Foundations • Version Control • Web Development
+
+---
+
+# 💬 Além do Código
+
+🎵 Música  
+📚 Aprendizado constante  
+🧠 Curiosidade sobre como as coisas funcionam  
+
+Tecnologia, para mim, é entender, construir e evoluir.
+
+---
+
+# 🌐 Conexões
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oliveiraspaula">
@@ -133,12 +134,5 @@ Entender. Construir. Evoluir.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+  💙 <strong>Construindo meu espaço na tecnologia, com estratégia e consistência.</strong>
 </p>
-
-<p align="center">
-  💙 <strong>Construindo meu espaço na tecnologia, linha por linha.</strong>
-</p>
-```
-
----
