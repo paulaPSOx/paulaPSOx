@@ -1,18 +1,30 @@
-# 🌐 Paula Oliveira  
-### Desenvolvedora Front-end Júnior | Cloud como Diferencial Estratégico
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Paula%20Oliveira&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <b>💻 Desenvolvedora Front-end Júnior</b>  
+  <br>
+  <b>☁️ Cloud como Diferencial Estratégico</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=2C5364&size=18&center=true&vCenter=true&width=600&lines=Estrutura+antes+de+estética.;Clareza+antes+de+complexidade.;Front-end+com+visão+de+infraestrutura.;Crescimento+sólido+e+consistente."/>
+</p>
 
 ---
 
-## ✨ Construo interfaces com estrutura, clareza e intenção.
+## ✨ Posicionamento
 
-Front-end para mim não é apenas visual.  
-É organização, lógica, experiência e base sólida.
+> Construo interfaces com intenção, organização e base técnica.  
+> Front-end para mim é estrutura, lógica e experiência — não apenas aparência.
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-Sou **Tecnóloga em Análise e Desenvolvimento de Sistemas pela FATEC-SP** e atualmente estou em formação em **Cloud Computing pelo programa AWS re/Start (Escola da Nuvem)**.
+🎓 Tecnóloga em **Análise e Desenvolvimento de Sistemas – FATEC-SP**  
+☁️ Em formação em **Cloud Computing – AWS re/Start (Escola da Nuvem)**  
 
 Sou uma desenvolvedora:
 
@@ -20,31 +32,40 @@ Sou uma desenvolvedora:
 - 🧠 Analítica antes de executar  
 - 🗂️ Organizada por padrão  
 - 🎨 Criativa com responsabilidade  
-- 🌱 Em evolução constante  
+- 📈 Em evolução constante  
 - 🧩 Gosto de entender profundamente antes de construir  
 
-Tenho um perfil **down-to-earth**: crescimento sólido, aprendizado consistente e construção com propósito.
+Tenho perfil **down-to-earth**: crescimento sólido, aprendizado consistente e construção com propósito.
 
-Meu foco é claro: **Desenvolvedora Front-end Júnior**.  
-Cloud é meu diferencial. Front-end é minha direção.
+Meu foco é claro: **Front-end Júnior**.  
+Cloud é diferencial. Não é meu cargo — é minha visão ampliada.
 
 ---
 
 ## 🛠️ Stack Técnica
 
 ### 💻 Front-end
-- HTML5
-- CSS3  
-  - Flexbox  
-  - Grid  
-  - Responsividade  
-- JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
+
+- HTML5  
+- CSS3 (Flexbox, Grid, Responsividade)  
+- JavaScript  
 
 ### 🔧 Versionamento
-- Git
-- GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github"/>
+</p>
 
-### ☁️ Fundamentos Cloud (AWS)
+- Git  
+- GitHub  
+
+### ☁️ Fundamentos AWS
+<p>
+  <img src="https://skillicons.dev/icons?i=aws"/>
+</p>
+
 - EC2  
 - S3  
 - IAM  
@@ -55,79 +76,26 @@ Cloud é meu diferencial. Front-end é minha direção.
 
 ## ☁️ Cloud como Diferencial Estratégico
 
-Não estou migrando para infraestrutura.  
-Estou ampliando minha visão como desenvolvedora.
+Entender infraestrutura muda a forma de desenvolver.
 
-Entender:
+Eu considero:
 
 - Onde a aplicação roda  
 - Como ela é publicada  
-- Como permissões funcionam  
-- Como segurança impacta o sistema  
+- Como permissões impactam segurança  
 - Como redes estruturam ambientes  
+- Como decisões técnicas afetam escalabilidade  
 
-Me permite desenvolver com mais consciência técnica.
-
-Front-end com noção de infraestrutura gera mais autonomia, mais responsabilidade e decisões mais maduras.
+Front-end com noção de infraestrutura gera mais consciência técnica.  
+E consciência técnica gera maturidade.
 
 ---
 
 ## 🧠 Como eu penso desenvolvimento
 
-1. Entendo o problema  
-2. Estruturo a solução  
-3. Organizo o código  
-4. Garanto responsividade  
-5. Refino a experiência  
-
-Eu penso arquitetura antes de estética.  
-Experiência antes de efeito.  
-Clareza antes de complexidade.
-
----
-
-## 🎯 Objetivo Profissional
-
-Atuar como **Desenvolvedora Front-end Júnior**,  
-construindo interfaces bem estruturadas, responsivas e organizadas,  
-enquanto evoluo de forma consistente em fundamentos de engenharia e infraestrutura.
-
-Meu objetivo não é crescer rápido.  
-É crescer certo.
-
----
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=default"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaPSOx&layout=compact&theme=default"/>
-</p>
-
----
-
-## 🎓 Formação
-
-🎓 **Tecnóloga em Análise e Desenvolvimento de Sistemas**  
-FATEC-SP  
-
-☁️ **Formação em Cloud Computing – AWS re/Start**  
-Escola da Nuvem  
-
----
-
-## 📫 Contato
-
-📍 Guarulhos – SP  
-🔗 LinkedIn: www.linkedin.com/in/oliveiraspaula  
-💻 GitHub: github.com/paulaPSOx  
-
----
-
-## 🔎 Identidade Profissional
-
-Construo com lógica.  
-Organizo com estratégia.  
-Evoluo com consistência.  
-
-Sou Front-end com visão de estrutura.
+```text
+1️⃣ Entendo o problema  
+2️⃣ Estruturo a solução  
+3️⃣ Organizo o código  
+4️⃣ Garanto responsividade  
+5️⃣ Refino a experiência  
