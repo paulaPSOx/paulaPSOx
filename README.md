@@ -1,11 +1,12 @@
-<!-- ================= HEADER ================= -->
+
+<!-- ================= HEADER ULTRA PREMIUM ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F0F0F,30:1E3A8A,60:4B0082,100:FF512F&text=Paula%20Oliveira&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F0F0F,20:1E3A8A,40:4B0082,70:FF512F,100:FF6A00&text=Paula%20Oliveira&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=900&lines=Front-end+Developer+Júnior;Cloud+Foundations+(AWS);HTML5+%7C+CSS3+%7C+JavaScript;React+em+Evolução;Deploy+em+Nuvem;Código+Organizado+e+Escalável"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=1000&lines=Front-end+Developer+Júnior;Cloud+Foundations+(AWS);HTML5+%7C+CSS3+%7C+JavaScript;React+em+Evolução;Deploy+em+Nuvem;Código+Limpo+%7C+Responsividade+%7C+Performance;Construindo+Interfaces+com+Estrutura"/>
 </p>
 
 <p align="center">
@@ -16,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
   </a>
   <a href="https://github.com/paulaPSOx">
-    <img src="https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white&labelColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
@@ -24,29 +25,38 @@
 
 # 👩‍💻 Sobre Mim
 
-🎓 Tecnóloga em **Análise e Desenvolvimento de Sistemas** pela FATEC SP  
-☁️ Formação em **Cloud Computing – AWS re/Start (Escola da Nuvem)**  
+🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas  
+☁️ Formação em Cloud Computing – AWS re/Start  
 📍 Brasil  
 
-Sou Desenvolvedora Front-end Júnior com foco em:
+Sou Desenvolvedora Front-end Júnior com base sólida em estrutura, organização e boas práticas.
 
-✔ Estrutura semântica  
-✔ Interfaces responsivas  
-✔ Organização de código  
-✔ Performance  
-✔ Deploy em nuvem  
-
-Não desenvolvo apenas telas.  
-Desenvolvo aplicações pensando em:
+Minha abordagem vai além da interface visual.  
+Eu desenvolvo aplicações considerando:
 
 • Experiência do usuário  
+• Performance  
 • Manutenção futura  
-• Boas práticas  
 • Estrutura escalável  
+• Deploy em nuvem  
+
+Tenho mentalidade orientada a melhoria contínua e evolução técnica constante.
 
 ---
 
-# 🚀 Stack Técnica
+# 🎯 Objetivo Profissional
+
+Atuar como:
+
+💻 Desenvolvedora Front-end Júnior  
+ou  
+☁️ Desenvolvedora com base em Cloud  
+
+Busco ambiente com cultura técnica forte, revisão de código, boas práticas e crescimento estruturado.
+
+---
+
+# 🚀 Stack Técnica Completa
 
 ## 💻 Front-end
 
@@ -55,58 +65,82 @@ Desenvolvo aplicações pensando em:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
 
-✔ Flexbox & Grid  
-✔ DOM Manipulation  
+✔ Estrutura semântica  
+✔ Flexbox & CSS Grid  
+✔ Responsividade Mobile First  
+✔ Manipulação de DOM  
 ✔ ES6+  
 ✔ Componentização  
-✔ UI/UX Fundamentals  
+✔ Organização modular  
 ✔ Clean Code  
+✔ Noções de acessibilidade  
 
 ---
 
-## ☁️ Cloud & Versionamento
+## ☁️ Cloud & Infraestrutura
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
 
 ✔ Amazon EC2  
 ✔ Amazon S3 (Static Hosting)  
-✔ IAM  
+✔ IAM (controle de acesso)  
 ✔ VPC (conceitos de rede)  
-✔ Versionamento com Git  
+✔ Fundamentos de infraestrutura  
+✔ Deploy de aplicações estáticas  
 ✔ Conceitos de CI/CD  
-✔ Deploy de aplicações Front-end  
 
 ---
 
-# 💼 Competências-Chave (ATS Friendly)
+## 🔧 Versionamento & Ferramentas
 
-Front-end Developer • HTML5 • CSS3 • JavaScript • React • Responsive Web Design • UI/UX • Git • GitHub • AWS • EC2 • S3 • IAM • VPC • Cloud Computing • Deploy • Clean Code • Web Performance • Version Control • Cross-browser compatibility
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+
+✔ Git Flow básico  
+✔ Versionamento semântico  
+✔ Organização de commits  
+✔ Documentação técnica  
 
 ---
 
-# 🧩 Projetos
+# 🧩 Projetos em Destaque
 
-## 🍄 Super Mario Bros – Landing Page
+## 🍄 Super Mario Bros – Landing Page Interativa
 • HTML • CSS • JavaScript  
 • Estrutura semântica  
-• Responsividade  
+• Layout responsivo  
 • Organização de código  
 
 ## 🦸 Interface Marvel
 • Manipulação de DOM  
 • Eventos dinâmicos  
-• Layout estruturado  
+• Estrutura modular  
 
 ## ⚡ Lista Interativa Pokémon
 • Interface dinâmica  
 • Experiência do usuário  
-• CSS modular  
+• CSS organizado  
 
 ---
 
-# 📊 Estatísticas
+# 🏆 Diferenciais
+
+✔ Base em Cloud (raro em perfil Front-end Júnior)  
+✔ Visão estrutural da aplicação  
+✔ Mentalidade orientada a boas práticas  
+✔ Organização e disciplina técnica  
+✔ Evolução contínua  
+
+---
+
+# 📚 Formação
+
+🎓 Análise e Desenvolvimento de Sistemas  
+☁️ AWS re/Start – Cloud Foundations  
+
+---
+
+# 📊 Estatísticas GitHub
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=midnight-purple&count_private=true"/>
@@ -115,24 +149,34 @@ Front-end Developer • HTML5 • CSS3 • JavaScript • React • Responsive W
 
 ---
 
-# 🎯 Objetivo Profissional
+# 🧠 Competências Comportamentais
 
-Conquistar oportunidade como:
-
-💻 Desenvolvedora Front-end Júnior  
-ou  
-☁️ Desenvolvedora com base em Cloud  
-
-Busco ambiente que valorize:
-
-✔ Boas práticas  
-✔ Estrutura organizada  
-✔ Cultura técnica  
-✔ Evolução contínua  
+✔ Organização  
+✔ Pensamento analítico  
+✔ Curiosidade técnica  
+✔ Aprendizado rápido  
+✔ Comprometimento  
+✔ Comunicação clara  
 
 ---
 
-# 🧠 Mentalidade
+# 🔎 Palavras-chave (ATS Optimization)
+
+Front-end Developer • HTML5 • CSS3 • JavaScript • React • Responsive Web Design • UI/UX • Git • GitHub • AWS • EC2 • S3 • IAM • VPC • Cloud Computing • Deploy • Clean Code • Web Performance • Version Control • Cross-browser compatibility • Mobile First
+
+---
+
+# 🚀 Roadmap 2026
+
+• Evoluir React (Hooks avançados)  
+• Aprender TypeScript  
+• Implementar CI/CD completo  
+• Projeto com deploy automatizado na AWS  
+• Contribuição open-source  
+
+---
+
+# 💬 Filosofia Profissional
 
 > Estrutura antes de estética.  
 > Clareza antes de complexidade.  
