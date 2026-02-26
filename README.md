@@ -3,18 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,25:1E3A8A,50:4B0082,75:9333EA,100:FF4500&text=Paula%20Oliveira&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- POSICIONAMENTO CLARO E COERENTE -->
+<!-- POSICIONAMENTO DINÂMICO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Front-end+J%C3%BAnior+em+Evolu%C3%A7%C3%A3o;HTML5+%7C+CSS3+%7C+JavaScript;Cloud+AWS+Foundations;Estrutura+antes+de+est%C3%A9tica.;Clareza+antes+de+complexidade.;Construindo+com+prop%C3%B3sito+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Desenvolvedora+Front-end+J%C3%BAnior;HTML5+%7C+CSS3+%7C+JavaScript;Cloud+AWS+Foundations;Estrutura+antes+de+est%C3%A9tica.;Clareza+antes+de+complexidade.;Crescimento+s%C3%B3lido+e+consistente+%F0%9F%9A%80"/>
 </p>
 
 ---
 
 # 👩🏻‍💻 Quem Sou Eu
 
-Sou **Tecnóloga em Análise e Desenvolvimento de Sistemas (FATEC-SP)**, com experiência prática em desenvolvimento **Front-end utilizando HTML5, CSS3 e JavaScript**.
-
-Atualmente estou em formação em **Cloud Computing pelo programa AWS re/Start (Escola da Nuvem)**, desenvolvendo fundamentos sólidos de infraestrutura em nuvem.
+Sou **Tecnóloga em Análise e Desenvolvimento de Sistemas (FATEC-SP)**  
+e atualmente estou em formação em **Cloud Computing pelo programa AWS re/Start (Escola da Nuvem)**.
 
 Tenho perfil:
 
@@ -26,7 +25,9 @@ Tenho perfil:
 
 Gosto de entender profundamente antes de construir.  
 Penso estrutura antes de estética.  
-Busco crescimento sólido, não atalhos.
+Busco evolução consistente, não atalhos.
+
+Meu foco é claro: **Front-end Júnior com visão técnica ampliada.**
 
 ---
 
@@ -36,13 +37,14 @@ Busco oportunidade como:
 
 > 💻 **Desenvolvedora Front-end Júnior**
 
-Com diferencial de integrar:
+Com diferencial estratégico em:
 
 > ☁️ Fundamentos de infraestrutura AWS  
-> 🧠 Organização técnica  
-> 📊 Clareza estrutural  
+> 🧠 Organização e clareza estrutural  
+> 📊 Pensamento analítico aplicado ao código  
 
-Não enxergo apenas a interface — considero também onde e como ela roda.
+Não enxergo apenas a interface.  
+Considero também onde, como e sob quais permissões ela roda.
 
 ---
 
@@ -63,9 +65,9 @@ Não enxergo apenas a interface — considero também onde e como ela roda.
 
 ---
 
-# ☁️ Cloud Computing — AWS Foundations
+# ☁️ Cloud como Diferencial Estratégico
 
-Durante minha formação no **AWS re/Start**, desenvolvo atividades práticas envolvendo:
+Durante minha formação no **AWS re/Start**, desenvolvo práticas envolvendo:
 
 ✔ Provisionamento de instâncias EC2  
 ✔ Configuração de armazenamento com S3  
@@ -73,35 +75,44 @@ Durante minha formação no **AWS re/Start**, desenvolvo atividades práticas en
 ✔ Fundamentos de redes (VPC)  
 ✔ Conceitos de segurança em nuvem  
 
-🎯 Objetivo: integrar desenvolvimento web e infraestrutura desde o início da carreira.
+Cloud não é meu cargo principal.  
+É minha camada extra de consciência técnica.
 
-Cloud não é meu cargo.  
-É meu diferencial estratégico.
+Front-end com noção de infraestrutura gera decisões mais maduras.
 
 ---
 
 # 🧠 Como Eu Penso Desenvolvimento
 
-• Estrutura antes de volume  
-• Clareza antes de complexidade  
-• Responsividade como padrão  
-• Organização como regra  
-• Evolução constante como mentalidade  
+```text
+1. Entendo o problema
+2. Estruturo a solução
+3. Organizo o código
+4. Garanto responsividade
+5. Refino a experiência
+````
 
-Meu código reflete meu pensamento: limpo, organizado e intencional.
+Princípios:
+
+• Clareza antes de complexidade
+• Estrutura antes de volume
+• Performance antes de excesso
+• Experiência do usuário como prioridade
+• Evolução contínua como regra
 
 ---
 
 # 🌐 Projetos
 
-Projetos com foco em:
+Meus projetos demonstram:
 
-✔ Interfaces responsivas  
-✔ Organização de código  
-✔ Interatividade com JavaScript  
-✔ Versionamento estruturado  
+✔ Interfaces responsivas
+✔ Organização de código
+✔ Interatividade com JavaScript
+✔ Versionamento estruturado
+✔ Evolução técnica progressiva
 
-Cada repositório demonstra evolução técnica real.
+Cada repositório representa aprendizado aplicado.
 
 ---
 
@@ -120,19 +131,25 @@ Cada repositório demonstra evolução técnica real.
 
 # 🎯 Objetivos 2026
 
-• Consolidar posição como Front-end Júnior  
-• Aprofundar fundamentos de JavaScript  
-• Aplicar Cloud em projetos próprios  
-• Evoluir com consistência técnica  
+• Consolidar posição como Desenvolvedora Front-end Júnior
+• Aprofundar fundamentos de JavaScript
+• Aplicar Cloud em projetos práticos
+• Evoluir tecnicamente com consistência
 
 ---
 
 # 🌍 Idiomas
 
-🇺🇸 Inglês – Avançado  
-🇪🇸 Espanhol – Básico  
-🇮🇹 Italiano – Básico  
-🤟 Libras – Básico  
+🇺🇸 Inglês – Avançado
+🇪🇸 Espanhol – Básico
+🇮🇹 Italiano – Básico
+🤟 Libras – Básico
+
+---
+
+# 💼 Palavras-chave Estratégicas (ATS)
+
+Front-end Developer • HTML5 • CSS3 • JavaScript • Responsive Design • Web Development • AWS Cloud • EC2 • S3 • IAM • VPC • Git • GitHub • Cloud Foundations • Version Control • Desenvolvimento Web • Infraestrutura em Nuvem
 
 ---
 
@@ -152,3 +169,4 @@ Cada repositório demonstra evolução técnica real.
 <p align="center">
   💙 <strong>Construindo meu espaço na tecnologia com estratégia, estrutura e consistência.</strong>
 </p>
+```
