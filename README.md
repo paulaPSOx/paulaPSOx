@@ -1,37 +1,137 @@
-# 🌟 Welcome to Paula Oliveira's World 🌟👩‍💻
+# 🚀 Paula Oliveira | Front-end Developer ☁️ AWS Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/paulaPSOx?style=social)](https://github.com/paulaPSOx)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliveiraspaula)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveira.paula2051@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@paulapsox)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/oliveiraspaula)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:oliveira.paula2051@gmail.com)
 
 ---
 
-## 👋 Hello! I'm Paula, a passionate **Front-end Developer** and a dedicated **Systems Analysis and Development** student from Brazil.
+## 👩‍💻 About Me
 
-### 🚀 Current Focus:
-I'm currently immersed in enhancing my web development skills while pursuing my degree. My passion lies in crafting **beautiful, responsive**, and **user-friendly interfaces** using modern web technologies. In my spare time, I explore design, enhance **user experiences**, and stay updated with the latest **tech trends**.
+🎓 Technologist in Systems Analysis and Development
+💻 Front-end Developer
+☁️ Cloud Computing Student (AWS re/Start – Escola da Nuvem)
+📍 Brazil
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="400px" max-width="400px" width="400px" align="right">
+I build **responsive, scalable and user-centered web applications** using modern front-end technologies and cloud infrastructure fundamentals.
 
-### 🛠️ My Tech Stack:
-- **Languages**:  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+I combine:
 
-- **Tools & Frameworks**:  
-  ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+✔ Clean and semantic code
+✔ Performance optimization
+✔ UI/UX best practices
+✔ Version control workflows (Git/GitHub)
+✔ Cloud deployment strategies (AWS)
 
-### 🌱 Currently Learning:
-- **React.js**, **TailwindCSS**, and improving my **JavaScript** skills.
-- Exploring **UI/UX** principles to create delightful user experiences.
+🎯 **Career Objective:** Front-end Developer Júnior with knowledge in Cloud Computing and deployment pipelines.
 
 ---
 
-## 📊 GitHub Stats:
+## 🛠️ Technical Skills (ATS Optimized)
+
+### 💻 Front-end Development
+
+* HTML5
+* CSS3 (Flexbox, Grid, Responsive Design, Media Queries)
+* JavaScript (ES6+)
+* DOM Manipulation
+* React.js (Fundamentals, Components, Props, Hooks)
+* Tailwind CSS
+* UI/UX Principles
+* Accessibility (basic concepts)
+* Cross-browser compatibility
+
+### ☁️ Cloud & Infrastructure
+
+* Amazon Web Services (AWS)
+* EC2 (Instance provisioning and configuration)
+* S3 (Static website hosting)
+* IAM (User and permission management)
+* CloudFront (Content delivery basics)
+* Basic CI/CD concepts
+* Git-based deployment workflows
+
+### 🧰 Tools & Workflow
+
+* Git
+* GitHub
+* VS Code
+* Figma
+* Agile mindset
+* Problem-solving
+* Continuous learning
+
+---
+
+## 💼 Core Competencies
+
+✔ Responsive Web Development
+✔ Front-end Architecture Organization
+✔ Component-based Design
+✔ Code Readability & Clean Code
+✔ Performance Awareness
+✔ Cloud Deployment Fundamentals
+✔ Collaboration & Version Control
+
+---
+
+## 🌟 Featured Projects
+
+### 🍄 Super Mario Bros – Interactive Landing Page
+
+Responsive landing page inspired by the movie universe.
+
+**Tech:** HTML5, CSS3, JavaScript
+**Highlights:**
+
+* Responsive layout
+* Semantic structure
+* Interactive elements
+* Organized codebase
+
+---
+
+### 🦸 Marvel – Character Selection Interface
+
+Dynamic character selection interface inspired by the Marvel universe.
+
+**Tech:** HTML5, CSS3, JavaScript
+**Highlights:**
+
+* DOM manipulation
+* Event-driven logic
+* Interactive UI
+* Clean structure
+
+---
+
+### 👽 Ben 10 – Alien Transformations
+
+Interactive experience simulating Omnitrix transformations.
+
+**Tech:** HTML5, CSS3, JavaScript
+**Highlights:**
+
+* UI interactivity
+* Visual transitions
+* Component-like structure
+
+---
+
+### ⚡ Pokémon – Interactive Card List
+
+Dynamic Pokémon card interface.
+
+**Tech:** HTML5, CSS3, JavaScript
+**Highlights:**
+
+* Interactive selection
+* Structured layout
+* Organized styling
+
+---
+
+## 📊 GitHub Analytics
 
 <div>
    <a href="https://github.com/paulaPSOx">
@@ -41,33 +141,45 @@ I'm currently immersed in enhancing my web development skills while pursuing my 
 
 ---
 
-## 🎨 Current Projects:
+## 📈 Currently Improving
 
-### 🖥️ Project Highlights
-- **Super Mario Bros - O Filme 🍄🎬**:  
-  Este projeto é uma recriação do clássico **Super Mario Bros**, inspirado no filme. Desenvolvido com **HTML**, **CSS** e **JavaScript**, ele traz à vida algumas das cenas e elementos visuais do universo de Mario, proporcionando uma experiência nostálgica para os fãs do jogo e do filme. Este projeto faz parte do desafio da comunidade **Dev Em Dobro** e da **Guild Dev Em Dobro** durante a **Mapa Dev Week**.
-
-- **Marvel - Seleção de Personagens 🦸‍♀💥**:  
-  Inspirado no incrível Universo Cinemático Marvel (MCU), este projeto recria a magia dos filmes e personagens icônicos da Marvel. Desenvolvido também com **HTML**, **CSS** e **JavaScript**, ele proporciona uma experiência interativa e visualmente atraente, permitindo aos fãs explorar seus heróis favoritos de maneira envolvente. Faz parte do desafio da comunidade **Dev Em Dobro** e da **Guild Dev Em Dobro** durante a **Mapa Dev Week**.
-
-- **Ben 10 - Transformações Alienígenas 👽🌟**:  
-  Inspirado no universo de **Ben 10**, este projeto permite ao usuário explorar e visualizar diferentes formas alienígenas ativadas pelo Omnitrix. Desenvolvido com **HTML**, **CSS** e **JavaScript**, inclui animações dinâmicas e uma interface interativa para os fãs da franquia. O objetivo é proporcionar uma experiência imersiva e nostálgica, trazendo elementos icônicos da série para a web.
-
-- **Pokémon - Lista de Cartas 🐱⚡🔥**:  
-  Este projeto é uma recriação interativa do universo Pokémon, inspirado nas cartas dos Pokémon, com elementos visuais e referências à série Pokémon. Desenvolvido com **HTML**, **CSS** e **JavaScript**, ele proporciona aos usuários uma experiência de interação dinâmica e divertida com as cartas dos seus Pokémon favoritos. Este projeto é parte do desafio da comunidade **[@Dev Em Dobro](https://github.com/devemdobro)** e da **Guild Dev Em Dobro**, na semana da **Mapa Dev Week**.
+🚀 Advanced React patterns
+🚀 Performance optimization techniques
+🚀 Clean Code & best practices
+🚀 CI/CD automation
+🚀 Cloud architecture fundamentals
 
 ---
 
-## 💬 Let's Connect!
+## 💡 Professional Mindset
 
-I love connecting with fellow tech enthusiasts and am always open to new opportunities! Feel free to reach out through any of the platforms below:
+I focus on delivering applications that are:
 
-<p align="left">
-  <a href="mailto:oliveira.paula2051@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/oliveiraspaula" title="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://discord.com/channels/@paulapsox" title="Discord"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>
-</p>
+* Scalable
+* Performant
+* Maintainable
+* User-friendly
+* Cloud-ready
+
+I don’t just build interfaces —
+I think about how the application will behave in production.
 
 ---
 
-✨ **"The future belongs to those who believe in the beauty of their dreams."** – Eleanor Roosevelt
+## 🤝 Let’s Connect
+
+I’m open to:
+
+✨ Front-end Developer Júnior opportunities
+✨ Cloud-based projects
+✨ Internship or entry-level tech roles
+✨ Collaborative development projects
+
+📩 Email: [oliveira.paula2051@gmail.com](mailto:oliveira.paula2051@gmail.com)
+💼 LinkedIn: [www.linkedin.com/in/oliveiraspaula](http://www.linkedin.com/in/oliveiraspaula)
+
+---
+
+✨ *Precision in Analysis. Excellence in Execution.*
+
+---
