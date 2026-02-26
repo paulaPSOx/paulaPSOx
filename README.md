@@ -2,7 +2,7 @@
 ## Front-end Developer | Cloud & DevOps Enthusiast ☁️🚀  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Paula%20Oliveira&fontSize=40&fontColor=ffffff&color=0:0f0c29,25:302b63,50:6A5ACD,75:ff512f,100:ff0000&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Paula%20Oliveira&fontSize=45&fontColor=ffffff&color=0:0f0c29,30:302b63,60:6A5ACD,85:ff512f,100:ff0000&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
   </a>
   <a href="mailto:oliveira.paula2051@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
@@ -22,26 +22,25 @@
 # 👩‍💻 About Me
 
 🎓 Technologist in Systems Analysis and Development  
-☁️ Cloud Computing Student (AWS re/Start – Escola da Nuvem)  
-💻 Front-end Developer focused on performance, scalability and clean architecture  
+☁️ AWS re/Start Student – Cloud Foundations  
+💻 Front-end Developer focused on building scalable and performant web applications  
 📍 Brazil  
 
-I build **responsive, accessible and scalable web applications** using modern Front-end technologies and apply **Cloud & DevOps fundamentals** to deploy applications in production environments.
+I develop **responsive, accessible and user-focused interfaces** using modern Front-end technologies and apply **Cloud & DevOps fundamentals** to deploy applications in production environments.
 
-I don’t just create interfaces —  
-I think about:
+I focus on:
 
+✔ Clean Code  
 ✔ Performance Optimization  
-✔ Clean Code & Maintainability  
-✔ Scalability  
-✔ Deployment & Infrastructure  
-✔ User Experience  
+✔ Component-based Architecture  
+✔ Cloud Deployment  
+✔ Scalable Solutions  
 
-🎯 **Goal 2026:** Front-end Developer Júnior with Cloud & DevOps knowledge.
+🎯 **Career Objective:** Front-end Developer Júnior (with Cloud knowledge as a strategic differential).
 
 ---
 
-# 🚀 Technical Stack (ATS Optimized)
+# 🚀 Technical Skills (ATS Optimized)
 
 ## 💻 Front-end Development
 
@@ -51,28 +50,28 @@ I think about:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000)
 
-✔ Responsive Design (Flexbox & Grid)  
-✔ ES6+ JavaScript  
-✔ DOM Manipulation  
-✔ Component-based Architecture  
-✔ Accessibility (a11y basics)  
-✔ Cross-browser compatibility  
+• Responsive Design (Flexbox & Grid)  
+• ES6+ JavaScript  
+• DOM Manipulation  
+• UI/UX fundamentals  
+• Accessibility basics  
+• Cross-browser compatibility  
 
 ---
 
-## ☁️ Cloud & DevOps Fundamentals
+## ☁️ Cloud & DevOps Foundations
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
 
-✔ Amazon EC2 – Instance provisioning  
-✔ Amazon S3 – Static website hosting  
-✔ IAM – Access & permission control  
-✔ CloudFront – CDN fundamentals  
-✔ Git workflow (branching, PRs)  
-✔ CI/CD basic concepts  
-✔ Deploying front-end applications to AWS  
+• Amazon EC2 – Instance provisioning  
+• Amazon S3 – Static website hosting  
+• IAM – Access control  
+• CloudFront – CDN basics  
+• Version control with Git  
+• CI/CD concepts  
+• Deploying front-end applications to AWS  
 
 ---
 
@@ -80,10 +79,10 @@ I think about:
 
 ## 🍄 Super Mario Bros – Interactive Landing Page
 Responsive landing page inspired by the movie universe.  
-**Tech:** HTML, CSS, JavaScript  
-✔ Semantic HTML  
+Tech: HTML | CSS | JavaScript  
 ✔ Interactive UI  
-✔ Organized structure  
+✔ Semantic structure  
+✔ Organized architecture  
 
 ---
 
@@ -95,23 +94,23 @@ Dynamic character interface with event-driven interactions.
 
 ---
 
-## 👽 Ben 10 – Alien Transformations
-Interactive transformation simulation.  
-✔ Animated transitions  
-✔ Dynamic UI logic  
+## 👽 Ben 10 – Interactive Transformation Experience
+Simulated alien transformations with animated transitions.  
+✔ UI logic  
 ✔ Code organization  
+✔ Responsive behavior  
 
 ---
 
-## ⚡ Pokémon – Interactive Card Interface
-Interactive card selection system.  
-✔ Responsive layout  
+## ⚡ Pokémon – Interactive Card System
+Interactive card selection interface.  
 ✔ User interaction logic  
-✔ Structured CSS architecture  
+✔ Structured CSS  
+✔ Responsive layout  
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -120,44 +119,40 @@ Interactive card selection system.
 
 ---
 
-# 🌱 Currently Improving (2026 Roadmap)
+# 🌱 2026 Growth Plan
 
-🚀 Advanced React patterns  
-🚀 CI/CD automation (GitHub Actions)  
-🚀 Cloud architecture fundamentals  
+🚀 Advanced React  
+🚀 Automated CI/CD (GitHub Actions)  
+🚀 Cloud Architecture fundamentals  
 🚀 Performance optimization techniques  
-🚀 Scalable front-end best practices  
+🚀 Scalable application best practices  
 
 ---
 
-# 🎯 Why Hire Me?
+# 🎯 Professional Positioning
 
 I combine:
 
-💻 Front-end Development  
-☁️ Cloud Infrastructure Knowledge  
-🔄 DevOps Mindset  
-🎨 UI/UX Awareness  
-📈 Growth-focused mentality  
+💻 Front-end development skills  
+☁️ Cloud infrastructure fundamentals  
+🔄 DevOps mindset  
+🎨 User-centered thinking  
+📈 Continuous learning  
 
-I understand how applications are built **and how they run in production.**
+I understand how applications are built **and how they run in production environments.**
 
-That’s my differential.
+That’s my competitive advantage.
 
 ---
 
-# 🤝 Open to Opportunities
-
-✨ Front-end Developer Júnior  
-✨ Cloud / DevOps Júnior  
-✨ Internship & Entry-level Tech Roles  
-✨ Collaborative Projects  
+# 🤝 Let's Connect
 
 📩 Email: oliveira.paula2051@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/oliveiraspaula  
+🔗 LinkedIn: www.linkedin.com/in/oliveiraspaula  
+🐙 GitHub: github.com/paulaPSOx  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff0000,50:6A5ACD,100:0f0c29&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff0000,60:6A5ACD,100:0f0c29&section=footer"/>
 </p>
