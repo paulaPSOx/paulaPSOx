@@ -1,26 +1,28 @@
-<!-- BANNER PROFISSIONAL -->
+<!-- BANNER PRINCIPAL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:1E3A8A,100:2C5364&text=Paula%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:1E3A8A,100:4B0082&text=Paula%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- FRASE DINÂMICA -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Desenvolvedora+Front-end+Júnior;HTML5+%7C+CSS3+%7C+JavaScript;Cloud+Computing+-+AWS+Foundations;Organização+%2B+Clareza+%2B+Evolução+Contínua"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Front-end+Developer+J%C3%BAnior;HTML5+%7C+CSS3+%7C+JavaScript;Cloud+AWS+Foundations;Organiza%C3%A7%C3%A3o+%2B+Estrat%C3%A9gia+%2B+Evolu%C3%A7%C3%A3o;Precis%C3%A3o+na+An%C3%A1lise.+Excel%C3%AAncia+na+Execu%C3%A7%C3%A3o."/>
 </p>
 
 ---
 
 # 👩🏻‍💻 Quem Sou Eu
 
-Sou Tecnóloga em **Análise e Desenvolvimento de Sistemas** pela FATEC-SP  
-e atualmente em formação em **Cloud Computing** pelo programa AWS re/Start – Escola da Nuvem.
+Sou Tecnóloga em **Análise e Desenvolvimento de Sistemas pela FATEC-SP**  
+e atualmente em formação em **Cloud Computing pelo programa AWS re/Start – Escola da Nuvem**.
 
-Tenho perfil **tecnológico e organizado**, com foco em:
+Tenho perfil **tecnológico e criativo**, com foco em:
 
-🧠 Estrutura lógica  
-📐 Organização de código  
-💻 Desenvolvimento Web  
-☁️ Fundamentos de Infraestrutura em Nuvem  
+🧠 Estrutura e clareza lógica  
+🎨 Interfaces organizadas e responsivas  
+☁️ Fundamentos sólidos em Cloud  
 🚀 Evolução profissional contínua  
+
+Meu objetivo é construir soluções web bem estruturadas, pensando não apenas na interface, mas também em como a aplicação funciona em ambiente de produção.
 
 ---
 
@@ -28,51 +30,51 @@ Tenho perfil **tecnológico e organizado**, com foco em:
 
 Busco oportunidade como:
 
-💻 Desenvolvedora Front-end Júnior  
+💻 **Desenvolvedora Front-end Júnior**  
 ou  
-☁️ Cloud Júnior  
+☁️ **Cloud Júnior (em início de carreira)**  
 
-Com diferencial de integrar **desenvolvimento web + fundamentos de infraestrutura AWS** desde o início da carreira.
+Diferencial competitivo: integração entre desenvolvimento web e fundamentos de infraestrutura em nuvem.
 
 ---
 
 # 🛠️ Stack Técnica
 
-### 💻 Front-end
+## 💻 Desenvolvimento Web
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&perline=6" />
+</p>
 
 ✔ HTML5 (estrutura semântica)  
 ✔ CSS3 (Flexbox, Grid, Responsividade)  
 ✔ JavaScript  
-✔ Git e GitHub  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
+✔ Versionamento com Git  
+✔ Organização de projetos no GitHub  
 
 ---
 
 # ☁️ Cloud Computing — AWS Foundations
 
-Durante minha formação no AWS re/Start, desenvolvo atividades práticas envolvendo:
+Durante minha formação no programa AWS re/Start, desenvolvo atividades práticas envolvendo:
 
 ✔ Provisionamento de instâncias EC2  
-✔ Armazenamento com S3  
+✔ Hospedagem estática com S3  
 ✔ Gerenciamento de permissões com IAM  
-✔ Conceitos básicos de redes (VPC)  
-✔ Fundamentos de segurança em nuvem  
+✔ Conceitos de redes e segurança básica com VPC  
 
-Objetivo: compreender não apenas o código, mas também onde e como ele roda.
+Objetivo: integrar desenvolvimento web com fundamentos de infraestrutura desde o início da carreira.
 
 ---
 
-# 🌐 Projetos Front-end
+# 🌐 Projetos
 
 Aqui você encontrará projetos com foco em:
 
 • Interfaces responsivas  
 • Estruturação organizada de código  
-• Interatividade com JavaScript  
-• Versionamento com GitHub  
+• Implementação de interatividade com JavaScript  
+• Versionamento profissional  
 
 Cada repositório demonstra minha evolução técnica e compromisso com boas práticas.
 
@@ -80,12 +82,13 @@ Cada repositório demonstra minha evolução técnica e compromisso com boas pr�
 
 # 🧠 Conhecimentos Complementares
 
-✔ C# (básico)  
-✔ Java (básico)  
-✔ Python (básico)  
-✔ SQL Server (básico)  
-✔ Figma  
-✔ Canva  
+• C# (básico)  
+• Java (básico)  
+• Python (básico)  
+• SQL Server (básico)  
+• Figma  
+• Canva  
+• Pacote Office  
 
 ---
 
@@ -98,6 +101,15 @@ Cada repositório demonstra minha evolução técnica e compromisso com boas pr�
 
 ---
 
+# 📊 Evolução Técnica
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaPSOx&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 # 🎯 Objetivos 2026
 
 - Consolidar posição como Desenvolvedora Front-end Júnior  
@@ -107,25 +119,25 @@ Cada repositório demonstra minha evolução técnica e compromisso com boas pr�
 
 ---
 
-# 💼 Palavras-chave Estratégicas (ATS Friendly)
+# 💼 Palavras-chave Estratégicas (ATS)
 
-Front-end Developer • HTML5 • CSS3 • JavaScript • Responsive Design • Web Development • AWS Cloud • EC2 • S3 • IAM • VPC • Git • GitHub • Cloud Foundations • Version Control • Infraestrutura em Nuvem
+Front-end Developer • HTML5 • CSS3 • JavaScript • Responsive Design • Web Development • AWS Cloud • EC2 • S3 • IAM • VPC • Git • GitHub • Cloud Foundations • Version Control • Desenvolvimento Web • Infraestrutura em Nuvem
 
 ---
 
-# 🌐 Conecte-se comigo
+# 🌐 Conecte-se Comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oliveiraspaula">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/paulaPSOx">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:oliveira.paula2051@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  💙 <strong>Precisão na Análise. Excelência na Execução.</strong>  
+  💙 <strong>Construindo meu espaço na tecnologia com estratégia, consistência e evolução contínua.</strong>
 </p>
