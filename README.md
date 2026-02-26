@@ -1,14 +1,3 @@
-Perfeito, Paula.
-Agora eu vou te entregar **um README estratégico, coerente com seu currículo 2026, visualmente forte e 100% alinhado com sua formação na FATEC-SP e no programa AWS re/Start.
-
-Sem inflar stack.
-Sem tecnologias que você ainda não colocou oficialmente no currículo.
-Mas com posicionamento profissional forte.
-
-Você pode copiar e colar 👇
-
----
-
 # 🚀 Paula Oliveira | Desenvolvedora Front-end em Formação ☁️
 
 <p align="center">
@@ -23,6 +12,8 @@ Você pode copiar e colar 👇
 
 ## 👩🏻‍💻 Sobre Mim
 
+<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" min-width="380px" max-width="380px" width="380px" align="right" alt="Coding animation">
+
 Sou Tecnóloga em **Análise e Desenvolvimento de Sistemas pela FATEC-SP** e atualmente em formação em **Cloud Computing pelo programa AWS re/Start (Escola da Nuvem)**.
 
 Tenho perfil **tecnológico, organizado e criativo**, com foco em:
@@ -34,6 +25,19 @@ Tenho perfil **tecnológico, organizado e criativo**, com foco em:
 🚀 Evolução profissional contínua
 
 Meu objetivo é atuar como **Desenvolvedora Front-end Júnior**, integrando desenvolvimento web e fundamentos de infraestrutura em nuvem.
+
+<br><br><br>
+
+---
+
+## 💻 Meu Ambiente de Desenvolvimento
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" alt="Computer coding">
+</p>
+
+Organização, estrutura e clareza fazem parte da minha forma de desenvolver.
+Cada projeto aqui representa aprendizado aplicado e evolução prática.
 
 ---
 
@@ -61,7 +65,7 @@ Diferencial competitivo: visão integrada entre **interface e infraestrutura**.
 ✔ CSS3 (responsividade, Flexbox, Grid)
 ✔ JavaScript
 ✔ Git & GitHub
-✔ Organização e versionamento de projetos
+✔ Versionamento de projetos
 
 ---
 
@@ -80,14 +84,12 @@ Objetivo: integrar desenvolvimento web com fundamentos de infraestrutura desde o
 
 ## 🌐 Projetos Front-end
 
-Aqui você encontrará projetos com foco em:
+Repositórios com foco em:
 
 • Interfaces responsivas
 • Estruturação organizada de código
-• Implementação de interatividade com JavaScript
-• Versionamento utilizando GitHub
-
-Cada repositório demonstra minha evolução técnica e compromisso com boas práticas.
+• Interatividade com JavaScript
+• Boas práticas de versionamento
 
 ---
 
@@ -112,7 +114,7 @@ Cada repositório demonstra minha evolução técnica e compromisso com boas pr�
 
 ---
 
-## 📊 Minha Evolução no GitHub
+## 📊 Estatísticas GitHub
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -131,12 +133,6 @@ Cada repositório demonstra minha evolução técnica e compromisso com boas pr�
 • Aprofundar fundamentos de JavaScript
 • Evoluir Cloud como diferencial estratégico
 • Construir projetos com aplicação prática em AWS
-
----
-
-## 💼 Palavras-chave Estratégicas (ATS)
-
-Front-end Developer • HTML5 • CSS3 • JavaScript • Responsive Design • Web Development • AWS Cloud • EC2 • S3 • IAM • VPC • Git • GitHub • Cloud Foundations • Version Control • Desenvolvimento Web • Infraestrutura em Nuvem
 
 ---
 
@@ -160,12 +156,3 @@ Front-end Developer • HTML5 • CSS3 • JavaScript • Responsive Design • 
 
 ---
 
-Se você quiser agora, eu posso:
-
-* 🔥 Criar a versão **Premium Recrutador (impacto máximo em 10 segundos)**
-* 🎨 Ajustar para um estilo mais criativo
-* 💼 Ajustar para foco total em vaga Front-end
-* ☁️ Ajustar para foco total em Cloud
-* 📈 Transformar em README “nível Big Tech”
-
-Qual direção estratégica você quer seguir agora?
