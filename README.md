@@ -1,190 +1,163 @@
-
-<!-- ================= HEADER ULTRA PREMIUM ================= -->
+# 🌌 Paula Oliveira  
+## Front-end Developer | Cloud & DevOps Enthusiast ☁️🚀  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F0F0F,20:1E3A8A,40:4B0082,70:FF512F,100:FF6A00&text=Paula%20Oliveira&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Paula%20Oliveira&fontSize=40&fontColor=ffffff&color=0:0f0c29,25:302b63,50:6A5ACD,75:ff512f,100:ff0000&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=1000&lines=Front-end+Developer+Júnior;Cloud+Foundations+(AWS);HTML5+%7C+CSS3+%7C+JavaScript;React+em+Evolução;Deploy+em+Nuvem;Código+Limpo+%7C+Responsividade+%7C+Performance;Construindo+Interfaces+com+Estrutura"/>
-</p>
-
-<p align="center">
+  <a href="https://github.com/paulaPSOx">
+    <img src="https://img.shields.io/github/followers/paulaPSOx?style=for-the-badge&color=6A5ACD&labelColor=000000"/>
+  </a>
   <a href="https://www.linkedin.com/in/oliveiraspaula">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
   </a>
   <a href="mailto:oliveira.paula2051@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
-  </a>
-  <a href="https://github.com/paulaPSOx">
-    <img src="https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&labelColor=000000"/>
   </a>
 </p>
 
 ---
 
-# 👩‍💻 Sobre Mim
+# 👩‍💻 About Me
 
-🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas  
-☁️ Formação em Cloud Computing – AWS re/Start  
-📍 Brasil  
+🎓 Technologist in Systems Analysis and Development  
+☁️ Cloud Computing Student (AWS re/Start – Escola da Nuvem)  
+💻 Front-end Developer focused on performance, scalability and clean architecture  
+📍 Brazil  
 
-Sou Desenvolvedora Front-end Júnior com base sólida em estrutura, organização e boas práticas.
+I build **responsive, accessible and scalable web applications** using modern Front-end technologies and apply **Cloud & DevOps fundamentals** to deploy applications in production environments.
 
-Minha abordagem vai além da interface visual.  
-Eu desenvolvo aplicações considerando:
+I don’t just create interfaces —  
+I think about:
 
-• Experiência do usuário  
-• Performance  
-• Manutenção futura  
-• Estrutura escalável  
-• Deploy em nuvem  
+✔ Performance Optimization  
+✔ Clean Code & Maintainability  
+✔ Scalability  
+✔ Deployment & Infrastructure  
+✔ User Experience  
 
-Tenho mentalidade orientada a melhoria contínua e evolução técnica constante.
-
----
-
-# 🎯 Objetivo Profissional
-
-Atuar como:
-
-💻 Desenvolvedora Front-end Júnior  
-ou  
-☁️ Desenvolvedora com base em Cloud  
-
-Busco ambiente com cultura técnica forte, revisão de código, boas práticas e crescimento estruturado.
+🎯 **Goal 2026:** Front-end Developer Júnior with Cloud & DevOps knowledge.
 
 ---
 
-# 🚀 Stack Técnica Completa
+# 🚀 Technical Stack (ATS Optimized)
 
-## 💻 Front-end
+## 💻 Front-end Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000)
 
-✔ Estrutura semântica  
-✔ Flexbox & CSS Grid  
-✔ Responsividade Mobile First  
-✔ Manipulação de DOM  
-✔ ES6+  
-✔ Componentização  
-✔ Organização modular  
-✔ Clean Code  
-✔ Noções de acessibilidade  
+✔ Responsive Design (Flexbox & Grid)  
+✔ ES6+ JavaScript  
+✔ DOM Manipulation  
+✔ Component-based Architecture  
+✔ Accessibility (a11y basics)  
+✔ Cross-browser compatibility  
 
 ---
 
-## ☁️ Cloud & Infraestrutura
+## ☁️ Cloud & DevOps Fundamentals
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000)
-
-✔ Amazon EC2  
-✔ Amazon S3 (Static Hosting)  
-✔ IAM (controle de acesso)  
-✔ VPC (conceitos de rede)  
-✔ Fundamentos de infraestrutura  
-✔ Deploy de aplicações estáticas  
-✔ Conceitos de CI/CD  
-
----
-
-## 🔧 Versionamento & Ferramentas
-
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
 
-✔ Git Flow básico  
-✔ Versionamento semântico  
-✔ Organização de commits  
-✔ Documentação técnica  
+✔ Amazon EC2 – Instance provisioning  
+✔ Amazon S3 – Static website hosting  
+✔ IAM – Access & permission control  
+✔ CloudFront – CDN fundamentals  
+✔ Git workflow (branching, PRs)  
+✔ CI/CD basic concepts  
+✔ Deploying front-end applications to AWS  
 
 ---
 
-# 🧩 Projetos em Destaque
+# 🌟 Featured Projects
 
-## 🍄 Super Mario Bros – Landing Page Interativa
-• HTML • CSS • JavaScript  
-• Estrutura semântica  
-• Layout responsivo  
-• Organização de código  
-
-## 🦸 Interface Marvel
-• Manipulação de DOM  
-• Eventos dinâmicos  
-• Estrutura modular  
-
-## ⚡ Lista Interativa Pokémon
-• Interface dinâmica  
-• Experiência do usuário  
-• CSS organizado  
+## 🍄 Super Mario Bros – Interactive Landing Page
+Responsive landing page inspired by the movie universe.  
+**Tech:** HTML, CSS, JavaScript  
+✔ Semantic HTML  
+✔ Interactive UI  
+✔ Organized structure  
 
 ---
 
-# 🏆 Diferenciais
-
-✔ Base em Cloud (raro em perfil Front-end Júnior)  
-✔ Visão estrutural da aplicação  
-✔ Mentalidade orientada a boas práticas  
-✔ Organização e disciplina técnica  
-✔ Evolução contínua  
+## 🦸 Marvel – Character Selection Interface
+Dynamic character interface with event-driven interactions.  
+✔ DOM manipulation  
+✔ Clean styling  
+✔ Structured layout  
 
 ---
 
-# 📚 Formação
-
-🎓 Análise e Desenvolvimento de Sistemas  
-☁️ AWS re/Start – Cloud Foundations  
+## 👽 Ben 10 – Alien Transformations
+Interactive transformation simulation.  
+✔ Animated transitions  
+✔ Dynamic UI logic  
+✔ Code organization  
 
 ---
 
-# 📊 Estatísticas GitHub
+## ⚡ Pokémon – Interactive Card Interface
+Interactive card selection system.  
+✔ Responsive layout  
+✔ User interaction logic  
+✔ Structured CSS architecture  
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=midnight-purple&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaPSOx&layout=compact&theme=midnight-purple"/>
 </p>
 
 ---
 
-# 🧠 Competências Comportamentais
+# 🌱 Currently Improving (2026 Roadmap)
 
-✔ Organização  
-✔ Pensamento analítico  
-✔ Curiosidade técnica  
-✔ Aprendizado rápido  
-✔ Comprometimento  
-✔ Comunicação clara  
-
----
-
-# 🔎 Palavras-chave (ATS Optimization)
-
-Front-end Developer • HTML5 • CSS3 • JavaScript • React • Responsive Web Design • UI/UX • Git • GitHub • AWS • EC2 • S3 • IAM • VPC • Cloud Computing • Deploy • Clean Code • Web Performance • Version Control • Cross-browser compatibility • Mobile First
+🚀 Advanced React patterns  
+🚀 CI/CD automation (GitHub Actions)  
+🚀 Cloud architecture fundamentals  
+🚀 Performance optimization techniques  
+🚀 Scalable front-end best practices  
 
 ---
 
-# 🚀 Roadmap 2026
+# 🎯 Why Hire Me?
 
-• Evoluir React (Hooks avançados)  
-• Aprender TypeScript  
-• Implementar CI/CD completo  
-• Projeto com deploy automatizado na AWS  
-• Contribuição open-source  
+I combine:
+
+💻 Front-end Development  
+☁️ Cloud Infrastructure Knowledge  
+🔄 DevOps Mindset  
+🎨 UI/UX Awareness  
+📈 Growth-focused mentality  
+
+I understand how applications are built **and how they run in production.**
+
+That’s my differential.
 
 ---
 
-# 💬 Filosofia Profissional
+# 🤝 Open to Opportunities
 
-> Estrutura antes de estética.  
-> Clareza antes de complexidade.  
-> Consistência antes de velocidade.  
-> Evolução contínua sempre.
+✨ Front-end Developer Júnior  
+✨ Cloud / DevOps Júnior  
+✨ Internship & Entry-level Tech Roles  
+✨ Collaborative Projects  
+
+📩 Email: oliveira.paula2051@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/oliveiraspaula  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF512F,50:6A5ACD,100:000000&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff0000,50:6A5ACD,100:0f0c29&section=footer"/>
 </p>
