@@ -1,152 +1,126 @@
-<!-- BANNER PRINCIPAL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,25:1E3A8A,50:4B0082,75:9333EA,100:FF4500&text=Paula%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:1E3A8A,100:9333EA&text=Paula%20Oliveira&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- FRASE ANIMADA -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Front-end+Developer+em+Evolu%C3%A7%C3%A3o;HTML5+%7C+CSS3+%7C+JavaScript;AWS+Cloud+Foundations;Criatividade+%2B+Estrutura;Construindo+com+Prop%C3%B3sito+%F0%9F%9A%80"/>
-</p>
+<h2 align="center">Front-end com mente estratégica ☁️</h2>
 
 ---
 
-<h1>👋🏻 Olá! Que bom ver você por aqui.</h1>
+## 👋 Sobre mim
 
-🎉 Seja muito bem-vindo(a) ao meu GitHub!  
-Aqui você encontrará meus projetos, minha evolução técnica e a forma como eu penso desenvolvimento.
+Oi! Eu sou a Paula.
 
----
+Sou formada em Análise e Desenvolvimento de Sistemas pela FATEC-SP  
+e atualmente estou em formação em Cloud Computing pelo programa AWS re/Start.
 
-## 👾 Sobre mim
+Gosto de tecnologia, mas não só de escrever código.
 
-<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" min-width="350px" max-width="350px" width="350px" align="right" alt="code">
+Eu gosto de:
 
-🌎 Me chamo **Paula Oliveira**, sou Tecnóloga em **Análise e Desenvolvimento de Sistemas (FATEC-SP)**.
+- entender como as coisas funcionam  
+- organizar antes de construir  
+- pensar na experiência antes da estética  
+- estruturar antes de estilizar  
 
-💻 Tenho base sólida em desenvolvimento **Front-end com HTML5, CSS3 e JavaScript**.
-
-☁️ Atualmente estou em formação em **Cloud Computing pelo programa AWS re/Start (Escola da Nuvem)**.
-
-Sou movida por:
-
-- 🎨 Criatividade  
-- 🧠 Organização  
-- 📊 Clareza lógica  
-- 🚀 Evolução contínua  
-
-Meu objetivo é construir soluções bem estruturadas e crescer de forma consistente na tecnologia.
+Sou criativa, mas estruturada.  
+Sou técnica, mas também visual.  
+Sou júnior, mas penso como alguém que quer construir carreira sólida.
 
 ---
 
-## 🎯 Meu Posicionamento Profissional
+## 💻 Minha Base Técnica
 
-> Sou júnior, mas penso estrutura.  
-> Sou front-end, mas enxergo além da interface.  
-> Estou começando, mas construo com intenção.
+Trabalho principalmente com:
 
-Busco oportunidade como:
+- HTML5
+- CSS3 (Flexbox, Grid, Responsividade)
+- JavaScript
+- Git e GitHub
 
-💻 Desenvolvedora Front-end Júnior  
-ou  
-☁️ Cloud Júnior  
+Meu foco no front-end é:
 
-Com diferencial de integrar desenvolvimento web com fundamentos de infraestrutura.
-
----
-
-## 💻 Stack Técnica
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,aws&perline=7" />
-</p>
-
-### Competências
-
-✔ HTML5 semântico  
-✔ CSS3 (Flexbox, Grid, Responsividade)  
-✔ JavaScript  
-✔ Versionamento com Git  
-✔ Organização de repositórios  
-✔ Fundamentos de AWS  
+✔ Código limpo  
+✔ Estrutura semântica  
+✔ Responsividade real  
+✔ Organização de projeto  
 
 ---
 
-## ☁️ Cloud Foundations
+## ☁️ Cloud: minha expansão
 
-Durante minha formação AWS re/Start, desenvolvo prática em:
+Atualmente estudando AWS e fundamentos de infraestrutura.
+
+Já tive contato com:
 
 - EC2  
 - S3  
 - IAM  
-- Conceitos de VPC  
-- Fundamentos de redes e segurança  
+- Conceitos de redes e segurança  
 
-Objetivo: entender o funcionamento da aplicação do front até a infraestrutura.
+Meu objetivo não é “virar cloud”.  
+É entender o sistema completo.
 
----
-
-## 🚀 Projetos
-
-Aqui você encontrará projetos com foco em:
-
-✨ Interfaces responsivas  
-✨ Estrutura organizada  
-✨ Interatividade com JavaScript  
-✨ Versionamento estratégico  
-
-Cada repositório representa minha evolução técnica.
+Quero ser uma desenvolvedora que entende:
+interface + lógica + infraestrutura.
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🧠 Como eu penso desenvolvimento
+
+Antes de começar um projeto eu me pergunto:
+
+- Qual problema estou resolvendo?
+- Essa estrutura é escalável?
+- O código está claro para outro dev?
+- A experiência do usuário faz sentido?
+
+Eu gosto de construir com intenção.
+
+---
+
+## 🚀 O que você vai encontrar aqui
+
+Meus repositórios mostram:
+
+- Minha evolução técnica
+- Projetos front-end estruturados
+- Aplicação prática de fundamentos
+- Organização e padrão
+
+Nada aqui é feito “só para preencher GitHub”.
+
+Tudo é parte da minha construção profissional.
+
+---
+
+## 🎯 Objetivo atual
+
+Conquistar minha oportunidade como:
+
+Desenvolvedora Front-end Júnior  
+ou  
+Júnior com base em Front + Cloud Foundations
+
+E continuar evoluindo com consistência.
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaPSOx&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaPSOx&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=paulaPSOx&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🎓 Formação
-
-🎓 **Análise e Desenvolvimento de Sistemas**  
-FATEC-SP – Curso Superior de Tecnologia
-
-☁️ **AWS re/Start – Cloud Computing**  
-Formação prática em fundamentos de infraestrutura AWS
-
----
-
-## 🎯 Objetivos 2026
-
-- Consolidar minha vaga como Front-end Júnior  
-- Fortalecer fundamentos de JavaScript  
-- Aplicar serviços AWS em projetos próprios  
-- Evoluir de forma estruturada e estratégica  
 
 ---
 
 ## 🌐 Contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/oliveiraspaula">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:SEUEMAILAQUI">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+LinkedIn: https://www.linkedin.com/in/oliveiraspaula  
+Email: seuemailaqui  
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</p>
-
-<p align="center">
-  💙 <strong>Entender. Construir. Evoluir.</strong>
+  <strong>Precisão na análise. Excelência na execução.</strong>
 </p>
