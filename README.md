@@ -1,13 +1,12 @@
-<!-- BANNER PROFISSIONAL -->
-
+<!-- BANNER PROFISSIONAL ESTRATÉGICO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,40:1E3A8A,70:4B0082,100:9333EA&text=Paula%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,25:1E3A8A,50:4B0082,75:9333EA,100:FF4500&text=Paula%20Oliveira&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- GIF SUTIL TECNOLOGIA -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="280"/>
 </p>
 
 <!-- POSICIONAMENTO -->
