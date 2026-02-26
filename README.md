@@ -1,105 +1,105 @@
-<!-- BANNER TECNOLÓGICO -->
+<!-- BANNER PROFISSIONAL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Paula%20Oliveira&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,25:1E3A8A,50:2A5298,75:203A43,100:0F2027&text=Paula%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <b>Front-end Developer Júnior • Cloud Computing Foundation • Construindo soluções com base sólida e visão de evolução contínua</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=5DA9E9&center=true&vCenter=true&width=900&lines=Front-end+Developer+J%C3%BAnior;Cloud+AWS+Foundations;HTML5+%7C+CSS3+%7C+JavaScript;Construindo+interfaces+modernas+e+responsivas" />
 </p>
 
 ---
 
 # 👩🏻‍💻 Quem Sou Eu
 
-Sou Tecnóloga em **Análise e Desenvolvimento de Sistemas pela FATEC-SP**, com foco em Desenvolvimento Web e base estruturada em Cloud Computing.
+Sou **Tecnóloga em Análise e Desenvolvimento de Sistemas pela FATEC-SP**, com formação complementar em **Cloud Computing pelo programa AWS re/Start – Escola da Nuvem**.
 
-Tenho perfil analítico, organizado e criativo. Gosto de construir interfaces funcionais, responsivas e bem estruturadas, sempre priorizando clareza de código, boas práticas e experiência do usuário.
+Estou no início da minha trajetória profissional, com foco em **Desenvolvimento Front-end**, construindo interfaces organizadas, responsivas e com atenção à experiência do usuário.
 
-Estou em início de carreira, com posicionamento claro: evoluir como Desenvolvedora Front-end, integrando fundamentos de nuvem para construir soluções modernas e escaláveis.
+Meu perfil combina:
+
+- 🧠 Organização e clareza lógica  
+- 🎨 Visão criativa aplicada à interface  
+- ☁️ Fundamentos de infraestrutura em nuvem  
+- 🚀 Compromisso com evolução contínua  
 
 ---
 
 # 🎯 Objetivo Profissional
 
-Atuar como **Desenvolvedora Front-end Júnior**, contribuindo com:
+Atuar como **Desenvolvedora Front-end Júnior**, utilizando:
 
-- Desenvolvimento de interfaces responsivas
-- Organização e versionamento de código com Git
-- Colaboração em equipe
-- Aplicação de fundamentos de Cloud como diferencial técnico
-- Evolução contínua em boas práticas e arquitetura web
+✔ HTML5 semântico  
+✔ CSS3 moderno (Flexbox, Grid, Responsividade)  
+✔ JavaScript  
+✔ Versionamento com Git e GitHub  
 
-Busco ambientes que valorizem aprendizado, consistência técnica e crescimento estruturado.
+Com diferencial competitivo em:
 
----
-
-# 🎓 Formação
-
-**Tecnóloga em Análise e Desenvolvimento de Sistemas**  
-FATEC-SP  
-
-**Cloud Computing**  
-Programa AWS re/Start – Escola da Nuvem  
+☁️ Fundamentos de Cloud Computing (AWS)  
+☁️ Deploy e estruturação básica de aplicações na nuvem  
 
 ---
 
-# 💻 Stack Principal – Desenvolvimento Web
+# 🛠️ Stack Técnica
+
+## 💻 Desenvolvimento Web
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&perline=6" />
 </p>
 
-### ✔ HTML5  
-Estruturação semântica e organização de conteúdo.
+**Competências aplicadas:**
 
-### ✔ CSS3  
-- Flexbox  
-- Grid  
-- Responsividade  
-- Organização visual e layout moderno  
-
-### ✔ JavaScript  
-Manipulação de DOM, lógica de programação e interatividade.
-
-### ✔ Git & GitHub  
-Versionamento, organização de repositórios e fluxo básico de colaboração.
-
-### ✔ VS Code  
-Ambiente principal de desenvolvimento.
+- HTML5 estruturado e semântico  
+- CSS3 com foco em layout responsivo  
+- Flexbox e Grid  
+- Manipulação básica de DOM com JavaScript  
+- Organização e versionamento de código  
+- Estruturação profissional de repositórios  
 
 ---
 
-# ☁️ Cloud Computing – Nível Foundation
+# ☁️ Cloud Computing — AWS Foundations
 
-Formação estruturada em fundamentos de infraestrutura em nuvem com foco em AWS.
+Durante minha formação no programa AWS re/Start, desenvolvi práticas envolvendo:
 
-### Serviços estudados:
+- ✔ Provisionamento de instâncias **EC2**  
+- ✔ Hospedagem estática utilizando **S3**  
+- ✔ Gerenciamento de acessos com **IAM**  
+- ✔ Conceitos de redes e segmentação com **VPC**  
+- ✔ Fundamentos de segurança em nuvem  
 
-- **EC2** – Provisionamento básico de instâncias
-- **S3** – Armazenamento de objetos
-- **IAM** – Controle de acesso e permissões
-- **VPC** – Conceitos de redes virtuais
-- Fundamentos de redes e segurança em nuvem
-
-🔎 Conhecimento em nível fundamental, com foco em compreensão de arquitetura e boas práticas iniciais.
+Objetivo: integrar desenvolvimento web e infraestrutura desde o início da carreira.
 
 ---
 
-# 🧩 Conhecimentos Complementares (Nível Básico)
+# 🚀 Projetos
 
-- C#
-- Java
-- Python
-- SQL Server
-- Figma
-- Canva
-- Pacote Office
+Meus repositórios demonstram:
+
+- Estruturação organizada de código  
+- Aplicação de responsividade  
+- Implementação de interatividade com JavaScript  
+- Uso de Git como controle de versão  
+- Evolução técnica contínua  
+
+Os projetos refletem aprendizado prático e consolidação de fundamentos.
 
 ---
 
-# 🌎 Idiomas
+# 🧠 Conhecimentos Complementares
+
+- C# (básico)  
+- Java (básico)  
+- Python (básico)  
+- SQL Server (básico)  
+- Figma  
+- Canva  
+- Pacote Office  
+
+---
+
+# 🌍 Idiomas
 
 - Inglês – Avançado  
 - Espanhol – Básico  
@@ -108,68 +108,46 @@ Formação estruturada em fundamentos de infraestrutura em nuvem com foco em AWS
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🎯 Metas Profissionais 2026
 
-Meus projetos têm foco em:
-
-- Estruturação clara de código
-- Responsividade
-- Organização de repositório
-- Aplicação prática de versionamento
-- Documentação objetiva
-
-📌 Projetos em evolução contínua, acompanhando meu crescimento técnico.
+- Consolidar posição como Desenvolvedora Front-end Júnior  
+- Aprofundar fundamentos de JavaScript  
+- Evoluir projetos com integração prática à AWS  
+- Fortalecer boas práticas de organização e qualidade de código  
 
 ---
 
-# 📈 Metas Profissionais – 2026
-
-- Consolidar atuação como Desenvolvedora Front-end Júnior
-- Aprofundar JavaScript
-- Evoluir em arquitetura de aplicações web
-- Integrar front-end com fundamentos de cloud
-- Construir portfólio técnico com projetos bem documentados
-- Desenvolver maturidade em versionamento e colaboração em equipe
-
----
-
-# 🔎 Palavras-chave (ATS)
-
-Front-end Developer Júnior  
-HTML5  
-CSS3  
-JavaScript  
-Responsividade  
-Git  
-GitHub  
-Versionamento  
-Cloud Computing  
-AWS Foundation  
-EC2  
-S3  
-IAM  
-VPC  
-Análise e Desenvolvimento de Sistemas  
-
----
-
-# 📫 Contato
+# 📊 GitHub Stats
 
 <p align="center">
-<a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-203A43?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:SEU-EMAIL-AQUI">
-  <img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaPSOx&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 💼 Palavras-chave (ATS Friendly)
+
+Front-end Developer Júnior • HTML5 • CSS3 • JavaScript • Responsive Design • Web Development • Git • GitHub • Version Control • AWS Cloud • EC2 • S3 • IAM • VPC • Cloud Foundations • Desenvolvimento Web • Infraestrutura em Nuvem
+
+---
+
+# 🌐 Conecte-se Comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oliveiraspaula">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:oliveira.paula2051@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/paulaPSOx">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Perfil em construção contínua. Evolução técnica com consistência, clareza e estratégia.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+  💙 <strong>Precisão na Análise. Excelência na Execução.</strong>
 </p>
