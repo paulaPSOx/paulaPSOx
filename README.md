@@ -1,8 +1,11 @@
-# 🌌 Paula Oliveira  
-## Front-end Developer | Cloud & DevOps Enthusiast ☁️🚀  
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Paula%20Oliveira&fontSize=45&fontColor=ffffff&color=0:0f0c29,30:302b63,60:6A5ACD,85:ff512f,100:ff0000&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Paula%20Oliveira&fontSize=45&fontColor=ffffff&color=0:0f0c29,30:302b63,60:6A5ACD,80:ff512f,100:ff0000&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=900&lines=Front-end+Developer+Júnior;Cloud+%7C+AWS+Foundations;DevOps+Mindset;Building+Responsive+%26+Scalable+Web+Applications" />
 </p>
 
 <p align="center">
@@ -13,139 +16,138 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
   </a>
   <a href="mailto:oliveira.paula2051@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white"/>
   </a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 👋 Olá! Que bom ver você por aqui.
 
-🎓 Technologist in Systems Analysis and Development  
-☁️ AWS re/Start Student – Cloud Foundations  
-💻 Front-end Developer focused on building scalable and performant web applications  
-📍 Brazil  
+Sou **Paula Oliveira**, desenvolvedora Front-end com formação em **Análise e Desenvolvimento de Sistemas** pela FATEC-SP e estudante de **Cloud Computing (AWS re/Start)**.
 
-I develop **responsive, accessible and user-focused interfaces** using modern Front-end technologies and apply **Cloud & DevOps fundamentals** to deploy applications in production environments.
-
-I focus on:
-
-✔ Clean Code  
-✔ Performance Optimization  
-✔ Component-based Architecture  
-✔ Cloud Deployment  
-✔ Scalable Solutions  
-
-🎯 **Career Objective:** Front-end Developer Júnior (with Cloud knowledge as a strategic differential).
+💻 Construo interfaces modernas, responsivas e acessíveis.  
+☁️ Entendo como aplicações funcionam em produção.  
+🚀 Busco minha oportunidade como **Front-end Developer Júnior**.
 
 ---
 
-# 🚀 Technical Skills (ATS Optimized)
+# 👩‍💻 Sobre mim
 
-## 💻 Front-end Development
+🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas  
+☁️ Formação AWS re/Start – Fundamentos de Cloud  
+💡 Foco em performance, organização e escalabilidade  
+📍 Guarulhos – SP  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000)
+Minha abordagem combina:
 
-• Responsive Design (Flexbox & Grid)  
-• ES6+ JavaScript  
-• DOM Manipulation  
-• UI/UX fundamentals  
-• Accessibility basics  
-• Cross-browser compatibility  
+✔ HTML semântico  
+✔ CSS organizado (Flexbox & Grid)  
+✔ JavaScript moderno (ES6+)  
+✔ Componentização com React  
+✔ Deploy em ambiente Cloud (AWS)  
+✔ Versionamento com Git  
+
+Não construo apenas telas —  
+Eu penso em **experiência, performance e entrega em produção**.
+
+---
+
+# 💻 Stack Técnica
+
+## 🎨 Front-end
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+</p>
+
+**Palavras-chave ATS:**  
+Front-end Development • Responsive Design • DOM Manipulation • ES6+ • UI/UX • Accessibility • Clean Code • Component-based Architecture
 
 ---
 
 ## ☁️ Cloud & DevOps Foundations
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,git,github" />
+</p>
 
-• Amazon EC2 – Instance provisioning  
-• Amazon S3 – Static website hosting  
-• IAM – Access control  
-• CloudFront – CDN basics  
-• Version control with Git  
-• CI/CD concepts  
-• Deploying front-end applications to AWS  
-
----
-
-# 🌟 Featured Projects
-
-## 🍄 Super Mario Bros – Interactive Landing Page
-Responsive landing page inspired by the movie universe.  
-Tech: HTML | CSS | JavaScript  
-✔ Interactive UI  
-✔ Semantic structure  
-✔ Organized architecture  
+• Amazon EC2 – Provisionamento de instâncias  
+• Amazon S3 – Hospedagem de site estático  
+• IAM – Controle de acesso  
+• CloudFront – CDN  
+• Conceitos de CI/CD  
+• Deploy de aplicações Front-end  
 
 ---
 
-## 🦸 Marvel – Character Selection Interface
-Dynamic character interface with event-driven interactions.  
-✔ DOM manipulation  
-✔ Clean styling  
-✔ Structured layout  
+# 🚀 Projetos em Destaque
+
+## 🍄 Super Mario Bros – Landing Page Interativa
+HTML • CSS • JavaScript  
+✔ Interface responsiva  
+✔ Estrutura semântica  
+✔ Organização de código  
 
 ---
 
-## 👽 Ben 10 – Interactive Transformation Experience
-Simulated alien transformations with animated transitions.  
-✔ UI logic  
-✔ Code organization  
-✔ Responsive behavior  
+## 🦸 Marvel – Seleção Dinâmica de Personagens
+JavaScript • DOM  
+✔ Eventos e interatividade  
+✔ Layout estruturado  
+✔ UI limpa  
 
 ---
 
-## ⚡ Pokémon – Interactive Card System
-Interactive card selection interface.  
-✔ User interaction logic  
-✔ Structured CSS  
-✔ Responsive layout  
+## 👽 Ben 10 – Experiência Interativa
+✔ Lógica dinâmica  
+✔ Transições animadas  
+✔ Estrutura modular  
 
 ---
 
-# 📊 GitHub Activity
+## ⚡ Pokémon – Sistema de Cards Interativo
+✔ Manipulação de elementos  
+✔ Responsividade  
+✔ Estrutura CSS organizada  
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaPSOx&layout=compact&theme=midnight-purple"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaPSOx&layout=compact&theme=midnight-purple&hide_border=true"/>
 </p>
 
 ---
 
-# 🌱 2026 Growth Plan
+# 🛤️ Roadmap 2026
 
-🚀 Advanced React  
-🚀 Automated CI/CD (GitHub Actions)  
-🚀 Cloud Architecture fundamentals  
-🚀 Performance optimization techniques  
-🚀 Scalable application best practices  
-
----
-
-# 🎯 Professional Positioning
-
-I combine:
-
-💻 Front-end development skills  
-☁️ Cloud infrastructure fundamentals  
-🔄 DevOps mindset  
-🎨 User-centered thinking  
-📈 Continuous learning  
-
-I understand how applications are built **and how they run in production environments.**
-
-That’s my competitive advantage.
+- [x] HTML, CSS, JavaScript sólido  
+- [x] Deploy na AWS  
+- [x] Fundamentos Cloud  
+- [ ] React avançado  
+- [ ] CI/CD com GitHub Actions  
+- [ ] Testes automatizados  
+- [ ] Performance avançada  
 
 ---
 
-# 🤝 Let's Connect
+# 🎯 Posicionamento Profissional
+
+Sou uma desenvolvedora Front-end Júnior que:
+
+💻 Constrói interfaces modernas  
+☁️ Entende infraestrutura Cloud  
+🔄 Aplica mentalidade DevOps  
+📈 Está em evolução constante  
+
+Meu diferencial é unir **Front-end + Cloud Foundations** desde o início da carreira.
+
+---
+
+# 🤝 Vamos nos conectar
 
 📩 Email: oliveira.paula2051@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/oliveiraspaula  
@@ -154,5 +156,5 @@ That’s my competitive advantage.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff0000,60:6A5ACD,100:0f0c29&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff0000,50:6A5ACD,100:0f0c29&section=footer"/>
 </p>
