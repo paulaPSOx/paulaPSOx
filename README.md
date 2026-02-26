@@ -1,85 +1,86 @@
-<!-- BANNER PROFISSIONAL -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,25:1E3A8A,50:4B0082,75:9333EA,100:FF4500&text=Paula%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+<h1>👋🏻 Olá! Seja bem-vindo(a) ao meu GitHub.</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Desenvolvedora+Front-end+J%C3%BAnior;HTML5+%7C+CSS3+%7C+JavaScript;Cloud+Computing+%7C+AWS+Foundations;Construindo+experi%C3%AAncias+digitais+com+organiza%C3%A7%C3%A3o+e+clareza+%F0%9F%9A%80"/>
+<p>
+Aqui você encontrará meus projetos em Desenvolvimento Front-end 
+e minha evolução prática em Cloud Computing.
 </p>
 
 ---
 
-# 👩🏻‍💻 Quem Sou Eu
+<h2>👩🏻‍💻 Sobre mim</h2>
 
-Sou Tecnóloga em **Análise e Desenvolvimento de Sistemas (FATEC-SP)**  
-e estudante de **Cloud Computing pelo programa AWS re/Start – Escola da Nuvem**.
+<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" min-width="350px" max-width="350px" width="350px" align="right" alt="code">
 
-Tenho perfil **tecnológico e organizado**, com foco em:
+<p>
+Sou Tecnóloga em <b>Análise e Desenvolvimento de Sistemas</b> pela 
+<b>Faculdade de Tecnologia de São Paulo (FATEC-SP)</b>.
+</p>
 
-🧠 Clareza lógica  
-📐 Estruturação de código  
-🌐 Interfaces responsivas  
-☁️ Fundamentos sólidos em Cloud  
-🚀 Evolução profissional contínua  
+<p>
+Atualmente estou em formação em Cloud Computing pelo programa 
+<b>AWS re/Start – Escola da Nuvem</b>.
+</p>
+
+<p>
+Tenho perfil tecnológico, organizado e analítico, com foco em:
+</p>
+
+✔ Estruturação clara de código  
+✔ Interfaces responsivas  
+✔ Versionamento profissional  
+✔ Fundamentos sólidos em Cloud  
+✔ Evolução contínua  
 
 ---
 
-# 🎯 Posicionamento Profissional
+<h2>🎯 Objetivo Profissional</h2>
 
 Busco oportunidade como:
 
-💻 **Desenvolvedora Front-end Júnior**  
+💻 Desenvolvedora Front-end Júnior  
 ou  
-☁️ **Cloud Júnior**
+☁️ Cloud Júnior  
 
-Meu diferencial é integrar **desenvolvimento web e fundamentos de infraestrutura em nuvem** desde o início da carreira.
-
----
-
-# 🛠️ Stack Técnica
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,aws,vscode&perline=4" />
-</p>
-
-### Competências Técnicas
-
-✔ HTML5 (estrutura semântica)  
-✔ CSS3 (Responsividade, Flexbox, Grid)  
-✔ JavaScript  
-✔ Git e GitHub  
-✔ Organização e versionamento de projetos  
+Com diferencial de integrar desenvolvimento web e fundamentos de infraestrutura em nuvem.
 
 ---
 
-# ☁️ Cloud Computing — AWS Foundations
+<h2>💻 Stack Técnica</h2>
 
-Durante minha formação no AWS re/Start, desenvolvo atividades práticas envolvendo:
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img align="center" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+
+---
+
+<h2>☁️ Cloud Computing — AWS Foundations</h2>
+
+Durante minha formação no programa AWS re/Start, desenvolvo atividades práticas envolvendo:
 
 ✔ Provisionamento de instâncias EC2  
-✔ Configuração de armazenamento com S3  
+✔ Armazenamento com S3  
 ✔ Gerenciamento de permissões com IAM  
-✔ Conceitos básicos de redes com VPC  
-✔ Fundamentos de segurança em nuvem  
+✔ Conceitos básicos de VPC e redes  
 
-Objetivo: compreender como aplicações são executadas e gerenciadas em ambientes de produção.
+Objetivo: integrar desenvolvimento web com infraestrutura desde o início da carreira.
 
 ---
 
-# 🌐 Projetos Front-end
+<h2>🌐 Projetos</h2>
 
-Projetos com foco em:
+Meus repositórios demonstram:
 
-• Interfaces responsivas  
-• Estruturação organizada de código  
+• Estrutura organizada  
+• Responsividade  
 • Interatividade com JavaScript  
-• Versionamento utilizando GitHub  
-
-Cada repositório demonstra evolução técnica e compromisso com boas práticas.
+• Uso de versionamento com GitHub  
+• Evolução progressiva de aprendizado  
 
 ---
 
-# 🧠 Conhecimentos Complementares
+<h2>🧠 Conhecimentos Complementares</h2>
 
 • C# (básico)  
 • Java (básico)  
@@ -87,11 +88,10 @@ Cada repositório demonstra evolução técnica e compromisso com boas práticas
 • SQL Server (básico)  
 • Figma  
 • Canva  
-• Pacote Office  
 
 ---
 
-# 🌍 Idiomas
+<h2>🌍 Idiomas</h2>
 
 • Inglês – Avançado  
 • Espanhol – Básico  
@@ -100,34 +100,18 @@ Cada repositório demonstra evolução técnica e compromisso com boas práticas
 
 ---
 
-# 🎯 Objetivos 2026
+<h2>📬 Contato</h2>
 
-- Consolidar posição como Desenvolvedora Front-end Júnior  
-- Aprofundar fundamentos de JavaScript  
-- Evoluir Cloud como diferencial estratégico  
-- Desenvolver projetos com aplicação prática em AWS  
+<a href="https://www.linkedin.com/in/oliveiraspaula">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
-
-# 💼 Palavras-chave (ATS Friendly)
-
-Front-end Developer • HTML5 • CSS3 • JavaScript • Responsive Design • Web Development • AWS Cloud • EC2 • S3 • IAM • VPC • Git • GitHub • Cloud Foundations • Version Control • Desenvolvimento Web • Infraestrutura em Nuvem  
-
----
-
-# 🌐 Conexões
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/oliveiraspaula">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/paulaPSOx">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/paulaPSOx">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
 <p align="center">
-  💙 <strong>Precisão na Análise. Excelência na Execução.</strong>  
+💙 <b>Construindo minha carreira com consistência, organização e visão estratégica.</b>
 </p>
