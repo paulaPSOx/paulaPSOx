@@ -1,6 +1,11 @@
-<!-- BANNER PROFISSIONAL ESTRATÉGICO -->
+<!-- BANNER PROFISSIONAL -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,25:1E3A8A,50:4B0082,75:9333EA,100:FF4500&text=Paula%20Oliveira&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- GIF TECNOLÓGICO -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
 
 <!-- POSICIONAMENTO DINÂMICO -->
@@ -10,47 +15,46 @@
 
 ---
 
-# 👩🏻‍💻 Quem Sou Eu
+# 👩🏻‍💻 Sobre Mim
 
-Sou **Tecnóloga em Análise e Desenvolvimento de Sistemas (FATEC-SP)**, com experiência prática em desenvolvimento **Front-end utilizando HTML5, CSS3 e JavaScript**.
+🎓 **Tecnóloga em Análise e Desenvolvimento de Sistemas – FATEC-SP**  
+☁️ **Formação em Cloud Computing – AWS re/Start (Escola da Nuvem)**  
 
-Atualmente estou em formação em **Cloud Computing pelo programa AWS re/Start (Escola da Nuvem)**, desenvolvendo fundamentos sólidos de infraestrutura em nuvem.
+Sou uma desenvolvedora com perfil:
 
-Tenho perfil:
-
-🧠 Estrutura e clareza lógica  
-📐 Organização de código  
-🎨 Criatividade com responsabilidade  
-🎯 Estratégia com pé no chão  
-📈 Evolução profissional contínua  
+🧠 Analítico  
+📐 Organizado  
+🎨 Criativo com responsabilidade  
+🎯 Estratégico e pé no chão  
+📈 Em evolução constante  
 
 Gosto de entender profundamente antes de construir.  
 Penso estrutura antes de estética.  
-Busco crescimento consistente — não atalhos.
+Busco crescimento sólido — não atalhos.
 
 ---
 
 # 🎯 Posicionamento Profissional
 
-Busco oportunidade como:
+💻 Busco oportunidade como **Desenvolvedora Front-end Júnior**
 
-> 💻 **Desenvolvedora Front-end Júnior**
+Com diferencial em:
 
-Com diferencial competitivo em:
+☁️ Fundamentos de infraestrutura AWS  
+🧠 Organização técnica  
+📊 Clareza estrutural  
 
-> ☁️ Fundamentos de infraestrutura AWS  
-> 🧠 Organização técnica  
-> 📊 Visão estrutural da aplicação  
-
-Não enxergo apenas a interface.  
-Considero também onde ela roda, como é publicada e como é protegida.
+Não vejo apenas a interface.  
+Considero onde ela roda, como é protegida e como é estruturada.
 
 ---
 
 # 🛠️ Stack Técnica
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,aws&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=light" height="60"/>
+  <img src="https://skillicons.dev/icons?i=git,github&theme=light" height="60"/>
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" height="60"/>
 </p>
 
 ### 💻 Desenvolvimento Web
@@ -61,36 +65,27 @@ Considero também onde ela roda, como é publicada e como é protegida.
 ### 🔧 Versionamento
 ✔ Git  
 ✔ GitHub  
-✔ Organização de repositórios  
 
 ---
 
-# ☁️ Cloud Computing — AWS Foundations
+# ☁️ Cloud como Diferencial Estratégico
 
-Durante minha formação no **AWS re/Start**, desenvolvo práticas envolvendo:
+Durante o programa AWS re/Start, desenvolvo práticas com:
 
-✔ Provisionamento de instâncias EC2  
-✔ Configuração de armazenamento com S3  
-✔ Gerenciamento de permissões com IAM  
-✔ Aplicação de conceitos de redes com VPC  
-✔ Fundamentos de segurança em nuvem  
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-VPC-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
 
-🎯 Objetivo: integrar desenvolvimento web com fundamentos de infraestrutura desde o início da carreira.
+✔ Provisionamento de instâncias  
+✔ Configuração de armazenamento  
+✔ Controle de permissões  
+✔ Conceitos de redes e segurança  
 
-Cloud é meu diferencial estratégico — não meu cargo principal.
-
----
-
-# 🌐 Projetos Front-end
-
-Meus projetos têm foco em:
-
-✔ Interfaces responsivas  
-✔ Estruturação organizada de código  
-✔ Interatividade com JavaScript  
-✔ Versionamento estruturado com GitHub  
-
-Cada repositório demonstra evolução técnica real e compromisso com boas práticas.
+Cloud amplia minha consciência técnica.  
+Não é meu cargo principal — é meu diferencial.
 
 ---
 
@@ -106,11 +101,23 @@ Cada repositório demonstra evolução técnica real e compromisso com boas prá
 
 Princípios:
 
-• Clareza antes de complexidade  
-• Estrutura antes de volume  
-• Performance antes de excesso  
-• Experiência do usuário como prioridade  
-• Evolução contínua como regra  
+✨ Clareza antes de complexidade  
+✨ Estrutura antes de volume  
+✨ Performance antes de excesso  
+✨ Experiência do usuário como prioridade  
+
+---
+
+# 🌐 Projetos
+
+Meus repositórios demonstram:
+
+✔ Interfaces responsivas  
+✔ Organização de código  
+✔ Aplicação prática de JavaScript  
+✔ Evolução técnica progressiva  
+
+Cada projeto representa aprendizado aplicado.
 
 ---
 
@@ -127,15 +134,6 @@ Princípios:
 
 ---
 
-# 🎯 Objetivos 2026
-
-• Consolidar posição como Desenvolvedora Front-end Júnior  
-• Aprofundar fundamentos de JavaScript  
-• Evoluir Cloud como diferencial estratégico  
-• Construir projetos com aplicação prática em AWS  
-
----
-
 # 🌍 Idiomas
 
 🇺🇸 Inglês – Avançado  
@@ -145,9 +143,12 @@ Princípios:
 
 ---
 
-# 💼 Palavras-chave Estratégicas (ATS)
+# 🎯 Objetivos 2026
 
-Front-end Developer • HTML5 • CSS3 • JavaScript • Responsive Design • Web Development • AWS Cloud • EC2 • S3 • IAM • VPC • Git • GitHub • Cloud Foundations • Version Control • Desenvolvimento Web • Infraestrutura em Nuvem
+🚀 Consolidar posição como Front-end Júnior  
+☁️ Evoluir Cloud como diferencial estratégico  
+📚 Aprofundar fundamentos de JavaScript  
+💡 Construir projetos com aplicação prática em AWS  
 
 ---
 
@@ -160,6 +161,12 @@ Front-end Developer • HTML5 • CSS3 • JavaScript • Responsive Design • 
   <a href="https://github.com/paulaPSOx">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 </p>
 
 ---
