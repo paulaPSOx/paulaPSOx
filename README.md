@@ -122,19 +122,6 @@ Cada repositório demonstra evolução técnica e compromisso com boas práticas
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paulaPSOx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaPSOx&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=paulaPSOx&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🎯 Objetivos 2026
 
 - Consolidar posição como Desenvolvedora Front-end Júnior  
