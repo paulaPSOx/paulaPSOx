@@ -2,7 +2,7 @@
 
 <p align="right">
 
-<img src="https://img.shields.io/badge/🇧🇷%20Português-Atual-0F7727?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🇧🇷%20Português-BR-0F7727?style=for-the-badge"/>
 
 <a href="./README.en.md">
 <img src="https://img.shields.io/badge/🇺🇸%20English-US-8B0000?style=for-the-badge"/>
