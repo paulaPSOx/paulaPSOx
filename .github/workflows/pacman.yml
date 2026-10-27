@@ -28,6 +28,8 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
+
 
       - name: Publish Pac-Man animation
         uses: peaceiris/actions-gh-pages@v4
