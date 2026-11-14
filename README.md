@@ -1,173 +1,54 @@
- <p align="right"><b>Idioma:</b></p>
-
+<p align="right"><b>Idioma:</b></p>
 <p align="right">
-
-<img src="https://img.shields.io/badge/🇧🇷%20Português-BR-0F7727?style=for-the-badge"/>
-
-<a href="./README.en.md">
-<img src="https://img.shields.io/badge/🇺🇸%20English-US-8B0000?style=for-the-badge"/>
-</a>
-
+  <img src="https://img.shields.io/badge/🇧🇷%20Português-BR-0F7727?style=for-the-badge"/>
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/🇺🇸%20English-US-8B0000?style=for-the-badge"/>
+  </a>
 </p>
 
-<!-- ======================== -->
-<!-- BANNER HEADER -->
-<!-- ======================== -->
-
+<!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1038,50:5B21B6,100:8B5CF6&height=240&section=header&text=Paula%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Front-end+Developer+Júnior;Curso+DevClub;HTML+%7C+CSS+%7C+JavaScript;Aplicações+Web+Responsivas+e+Escaláveis;Deploy+de+Aplicações+Front-end+em+Cloud;Precisão+na+Análise.+Excelência+na+Execução."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Software+Developer+%7C+Front-end;JavaScript+(ES6%2B)+%7C+HTML5+%7C+CSS3;Git+%26+GitHub+%7C+REST+APIs;AWS+Cloud+Foundations;Full+Stack+Formation+at+DevClub."/>
 </p>
 
-<!-- Seguidores -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/paulaPSOx?style=for-the-badge&label=Seguidores&color=7C3AED"/>
   <img src="https://img.shields.io/github/stars/paulaPSOx?style=for-the-badge&label=Estrelas&color=7C3AED"/>
 </p>
 
-<!-- ======================== -->
-<!-- APRESENTAÇÃO PROFISSIONAL -->
-<!-- ======================== -->
+---
 
-<p align="center">
-<strong>Front-end Developer Júnior | HTML • CSS • JavaScript • DevClub</strong><br/>
-Construindo aplicações web modernas e escaláveis, com código limpo, interfaces responsivas e deploy de aplicações na AWS Cloud.
-</p>
+### 👩🏻‍💻 Sobre Mim
+
+Desenvolvedora de Software com foco em **Front-end** e interfaces modernas, unindo a base técnica de **Análise e Desenvolvimento de Sistemas (FATEC-SP)** e **Cloud Computing (AWS re/Start)** com a formação intensiva Full Stack no **DevClub**.
+
+- 💻 Foco atual: Construção de aplicações interativas em **JavaScript puro (ES6+)**, consumo de **APIs REST** e arquitetura limpa.
+
+- ☁️ Infraestrutura: Conhecimento prático em fundamentos de **AWS Cloud** (EC2, S3, IAM, VPC).
+
+- ♿ Diferencial: Experiência acadêmica com pesquisa aplicada em **Acessibilidade Digital e Libras (a11y)**.
+
+- 🎯 Pronta para atuar como: **Desenvolvedora Front-end Júnior** ou **Estagiária de Software**.
 
 ---
 
-# 🔎 Palavras-chave
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-
-**Front-end Development • HTML5 • CSS3 • JavaScript • Responsive Web Design • DOM Manipulation • REST API Integration • Git • GitHub • Cloud Computing • AWS • EC2 • S3 • IAM • VPC**
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,aws" height="50"/>
 </div>
 
----
+- **Front-end:** HTML5 Semântico, CSS3 (Flexbox/Grid, Responsividade), JavaScript (ES6+, DOM, Fetch API).
 
-# 👩🏻‍💻 Sobre Mim
+- **Controle de Versão:** Git, GitHub (branches, commits semânticos, Pull Requests).
 
-📚 Estudante do **curso DevClub**, iniciado em **19/10/2026**, com foco no aprendizado de desenvolvimento web.
+- **Cloud (AWS):** Amazon EC2, Amazon S3, IAM, Fundamentos de redes em nuvem.
 
-Desenvolvo **aplicações web modernas** utilizando **HTML5, CSS3 e JavaScript**, com foco em:
-
-- Interfaces responsivas e centradas no usuário  
-- Manipulação de **DOM** e consumo de **APIs REST**  
-- Organização de código e boas práticas de desenvolvimento  
-
-Atualmente estou aprimorando minhas habilidades em **Cloud Computing na AWS**, com experiência em:
-
-- Provisionamento de servidores com **EC2**  
-- Hospedagem de aplicações estáticas com **S3**  
-- Controle de acesso e permissões com **IAM**  
-- Conceitos de redes e segurança com **VPC**
-
-🎯 Objetivo profissional: atuar como **Front-end Developer Júnior**, desenvolvendo **aplicações web completas, escaláveis e prontas para produção**.
-
----
-
-# 💼 Perfil Profissional
-
-Sou uma desenvolvedora em início de carreira com **foco em Front-end**, apaixonada por **interfaces interativas** e **experiência do usuário (UX)**.
-
-Atualmente, estou desenvolvendo meus conhecimentos por meio do **curso DevClub** e da prática em projetos.
-
----
-
-# 🎯 Posicionamento Profissional
-
-<div align="center">
-
-💻 **Front-end Developer Júnior**  
-☁️ **Fundamentos de Cloud | AWS**
-
-🚀 Desenvolvimento de aplicações web modernas, responsivas e escaláveis, com foco em código limpo, versionamento de projetos e deploy de aplicações em AWS.
-
-</div>
-
----
-
-# 🏆 Destaques
-
-✔ Desenvolvimento de aplicações web com **HTML5, CSS3 e JavaScript**  
-✔ Consumo de **APIs REST** e manipulação de dados dinâmicos  
-✔ Construção de **interfaces responsivas** e interativas  
-✔ Projetos versionados e documentados no **GitHub**  
-✔ Deploy de aplicações Front-end em **AWS (EC2 / S3)**  
-✔ Aprendizado contínuo por meio do **curso DevClub**
-
----
-
-# 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,aws" height="60"/>
-</div>
-
-### 💻 Desenvolvimento Web
-
-- **HTML5** — estrutura semântica e acessível  
-- **CSS3** — Flexbox, Grid e design responsivo  
-- **JavaScript** — manipulação de DOM, eventos e integração com APIs  
-
-### ☁️ Fundamentos de Cloud – AWS
-
-- **EC2** — criação e gestão de servidores  
-- **S3** — hospedagem de aplicações estáticas  
-- **IAM** — gerenciamento de identidades e permissões  
-- **VPC** — conceitos de redes e segurança  
-
-### 🧰 Ferramentas
-
-- **Git & GitHub** — versionamento, branch e pull requests  
-- **VS Code** — ambiente moderno de desenvolvimento  
-
----
-
-# ⚙️ Fluxo de Desenvolvimento
-
-Meu fluxo de desenvolvimento segue boas práticas da engenharia de software:
-
-1. Planejamento da estrutura da aplicação  
-2. Desenvolvimento de layout responsivo e modular  
-3. Implementação da lógica com **JavaScript**  
-4. Integração com **APIs externas**  
-5. Versionamento e controle de código com **Git/GitHub**  
-6. Deploy da aplicação na **AWS Cloud**
-
----
-
-# 🧠 Arquitetura de Projetos
-
-Estrutura comum utilizada em meus projetos Front-end:
-
-```text
-/project
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── assets/
-    └── images/
-```
-
-Princípios de arquitetura aplicados:
-
-- Separação de responsabilidades (**HTML / CSS / JS**)  
-- Código modular e reutilizável  
-- Estrutura semântica e legível  
-- Versionamento contínuo com Git  
-
----
-
-# 🚀 Portfólio Interativo & Projetos
-
-Projetos desenvolvidos com foco em **interfaces modernas, interatividade e boas práticas de desenvolvimento Front-end**.
+- **Em evolução:** Ecossistema Full Stack (React.js, Node.js).
 
 ---
 
@@ -175,17 +56,9 @@ Projetos desenvolvidos com foco em **interfaces modernas, interatividade e boas 
 
 <div align="center">
 
-## 🌦️ Clima Tempo — Aplicação Web de Previsão Meteorológica
+### 🌦️ Clima Tempo — Aplicação Web de Previsão Meteorológica
 
-Aplicação web que permite consultar **previsão do tempo em tempo real**, utilizando **busca por cidade ou geolocalização automática**, com interface moderna e totalmente responsiva.
-
-Este projeto foi desenvolvido com foco em:
-
-✔ Consumo de **APIs REST**  
-✔ Manipulação dinâmica do **DOM com JavaScript**  
-✔ Construção de **interfaces web responsivas**
-
-Inspirado pela metodologia de aprendizado prático do canal **Dev em Dobro**.
+Aplicação web que consulta e exibe a **previsão do tempo em tempo real**, integrando API externa com tratamento assíncrono de dados, busca dinâmica por cidade e interface totalmente responsiva.
 
 <br>
 
@@ -197,11 +70,10 @@ Inspirado pela metodologia de aprendizado prático do canal **Dev em Dobro**.
 <br><br>
 
 <a href="https://paulapsox.github.io/clima-tempo">
-<img src="https://img.shields.io/badge/🌍%20Aplicação%20Online-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌍%20Aplicação%20Online-7C3AED?style=for-the-badge"/>
 </a>
-
 <a href="https://github.com/paulaPSOx/clima-tempo">
-<img src="https://img.shields.io/badge/%20Código%20no%20GitHub-24292E?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/%20Código%20no%20GitHub-24292E?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -212,79 +84,28 @@ Inspirado pela metodologia de aprendizado prático do canal **Dev em Dobro**.
 
 <div align="center">
 
-| Projeto | Descrição | Tecnologias | Aplicação | Código |
-|--------|-----------|------------|-----------|--------|
-| 🐞 **Miraculous Ladybug & Cat Noir** | Página interativa com animações e interações inspiradas na série. | HTML • CSS • JavaScript | <a href="https://paulapsox.github.io/miraculous-ladybug-catnoir/"><img src="https://img.shields.io/badge/🌍%20Visualizar-7C3AED?style=flat-square"/></a> | <a href="https://github.com/paulaPSOx/miraculous-ladybug-catnoir"><img src="https://img.shields.io/badge/%20GitHub-24292E?style=flat-square&logo=github&logoColor=white"/></a> |
-| ⚡ **Sonic X Shadow Generations** | Página temática com layout responsivo e elementos interativos do universo Sonic. | HTML • CSS • JavaScript | <a href="https://paulapsox.github.io/sonic-x-shadow-generations/"><img src="https://img.shields.io/badge/🌍%20Visualizar-7C3AED?style=flat-square"/></a> | <a href="https://github.com/paulaPSOx/sonic-x-shadow-generations"><img src="https://img.shields.io/badge/%20GitHub-24292E?style=flat-square&logo=github&logoColor=white"/></a> |
-| 🌌 **O Sistema Solar** | Aplicação educativa com conteúdo interativo sobre os planetas do Sistema Solar. | HTML • CSS • JavaScript | <a href="https://paulapsox.github.io/o-sistema-solar"><img src="https://img.shields.io/badge/🌍%20Visualizar-7C3AED?style=flat-square"/></a> | <a href="https://github.com/paulaPSOx/o-sistema-solar"><img src="https://img.shields.io/badge/%20GitHub-24292E?style=flat-square&logo=github&logoColor=white"/></a> |
-| 🍄 **Super Mario Bros – O Filme** | Página temática inspirada no universo Super Mario com animações e layout responsivo. | HTML • CSS • JavaScript | <a href="https://paulapsox.github.io/super-mario-bros-o-filme"><img src="https://img.shields.io/badge/🌍%20Visualizar-7C3AED?style=flat-square"/></a> | <a href="https://github.com/paulaPSOx/super-mario-bros-o-filme"><img src="https://img.shields.io/badge/%20GitHub-24292E?style=flat-square&logo=github&logoColor=white"/></a> |
+| Projeto | Descrição | Tecnologias | Deploy | Código |
+|---|---|---|:---:|:---:|
+| 🐞 **Miraculous Ladybug** | Interface temática com manipulação de DOM e transições visuais dinâmicas. | HTML5 • CSS3 • JS | [Testar](https://paulapsox.github.io/miraculous-ladybug-catnoir/) | [Repositório](https://github.com/paulaPSOx/miraculous-ladybug-catnoir) |
+| ⚡ **Sonic X Shadow Generations** | Landing page dinâmica e responsiva focada em layout moderno e animações. | HTML5 • CSS3 • JS | [Testar](https://paulapsox.github.io/sonic-x-shadow-generations/) | [Repositório](https://github.com/paulaPSOx/sonic-x-shadow-generations) |
+| 🌌 **O Sistema Solar** | Aplicação informativa com interatividade e renderização modular de elementos. | HTML5 • CSS3 • JS | [Testar](https://paulapsox.github.io/o-sistema-solar) | [Repositório](https://github.com/paulaPSOx/o-sistema-solar) |
+| 🍄 **Super Mario Bros** | Aplicação interativa com reprodução sonora, modais dinâmicos e estética retrô. | HTML5 • CSS3 • JS | [Testar](https://paulapsox.github.io/super-mario-bros-o-filme) | [Repositório](https://github.com/paulaPSOx/super-mario-bros-o-filme) |
 
 </div>
 
 ---
 
-# 🚧 Atualmente Desenvolvendo
-
-Projetos e estudos em andamento:
-
-- JavaScript avançado  
-- Consumo de **APIs REST**  
-- Arquitetura de aplicações Front-end  
-- Boas práticas de organização de código  
-- Deploy de aplicações web em **AWS**
-
-🎯 Objetivo: evoluir continuamente como **Front-end Developer**, desenvolvendo aplicações cada vez mais robustas e escaláveis.
-
----
-
-# 🌎 Conecte-se Comigo
+# 📊 Estatísticas do GitHub
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/oliveiraspaula">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:oliveira.paula2051@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img height="160" src="https://stats-github-readme.vercel.app/api?username=paulaPSOx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+  <img height="160" src="https://stats-github-readme.vercel.app/api/top-langs/?username=paulaPSOx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </div>
 
-<p align="center">
-  💜 <strong>Precisão na Análise. Excelência na Execução.</strong><br/>
-  🚀 Desenvolvimento web com foco em código limpo, organização de projetos e aplicações prontas para produção.
-</p>
-
----
-
-# 📊 Análise do GitHub
-
-## 📈 Estatísticas do Perfil
+<br>
 
 <div align="center">
-<img height="170"
-src="https://stats-github-readme.vercel.app/api?username=paulaPSOx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-</div>
-
-## 💻 Linguagens Mais Utilizadas
-
-<div align="center">
-<img height="170"
-src="https://stats-github-readme.vercel.app/api/top-langs/?username=paulaPSOx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-<img height="170"
-src="https://streak-stats.demolab.com?user=paulaPSOx&theme=tokyonight&hide_border=true&locale=pt_BR"/>
-</div>
-
-## 📈 Atividade de Contribuições ao Longo do Tempo
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulaPSOx&theme=tokyonight" alt="Resumo de atividade do GitHub de Paula Oliveira" width="100%"/>
+  <img height="150" src="https://streak-stats.demolab.com?user=paulaPSOx&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </div>
 
 ---
@@ -292,18 +113,26 @@ src="https://streak-stats.demolab.com?user=paulaPSOx&theme=tokyonight&hide_borde
 # 👾 Pac-Man nos Commits
 
 <div align="center">
- <picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulaPSOx/paulaPSOx/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulaPSOx/paulaPSOx/output/pacman-contribution-graph.svg">
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/paulaPSOx/paulaPSOx/output/pacman-contribution-graph.svg">
   </picture>
-
-  <br/>
-  <sub>Gráfico de contribuições gerado com pacman-contribution-graph</sub>
 </div>
 
 ---
 
+# 📬 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/oliveiraspaula" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:oliveira.paula2051@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1038,50:5B21B6,100:8B5CF6&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1038,50:5B21B6,100:8B5CF6&height=100&section=footer"/>
 </p>
