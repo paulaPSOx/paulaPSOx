@@ -1,105 +1,112 @@
 <p align="right"><b>Language:</b></p>
 <p align="right">
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/🇧🇷%20Português-BR-0F7727?style=for-the-badge" alt="Read in Portuguese">
+    <img src="https://img.shields.io/badge/🇧🇷%20Português-BR-0F7727?style=for-the-badge" alt="Switch to Portuguese (Brazil)">
   </a>
-  <img src="https://img.shields.io/badge/🇺🇸%20English-US-8B0000?style=for-the-badge" alt="English, current language">
+  <img src="https://img.shields.io/badge/🇺🇸%20English-US-8B0000?style=for-the-badge" alt="Current language: English (US)">
 </p>
 
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1038,50:5B21B6,100:8B5CF6&height=220&section=header&text=Paula%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer&descAlignY=60&descSize=20" width="100%" alt="Banner with the name Paula Oliveira, Front-end Developer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1038,50:5B21B6,100:8B5CF6&height=220&section=header&text=Paula%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer&descAlignY=60&descSize=20" width="100%" alt="Illustrated header banner with waving purple gradients showing: Paula Oliveira, Front-end Developer">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Junior+Front-end+Developer;HTML+%7C+CSS+%7C+JavaScript+(ES6%2B);Responsive%2C+interactive+and+accessible+interfaces;Looking+for+my+first+role+as+a+Junior+Front-end+Developer+or+Intern" alt="Animated text: Junior Front-end Developer, HTML, CSS and JavaScript, responsive, interactive and accessible interfaces">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Junior+Front-end+Developer;HTML+%7C+CSS+%7C+JavaScript+(ES6%2B);Responsive%2C+interactive+and+accessible+interfaces;Looking+for+a+Junior+Front-end+or+Internship+position" alt="Typing text animation: Junior Front-end Developer, HTML, CSS and modern JavaScript ES6+, responsive, interactive and accessible interfaces, looking for my first tech role">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oliveiraspaula">
-    <img src="https://img.shields.io/badge/LinkedIn-Paula_Oliveira-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Paula Oliveira on LinkedIn">
+  <a href="https://www.linkedin.com/in/oliveiraspaula" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Paula_Oliveira-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Visit Paula Oliveira's LinkedIn profile">
   </a>
+  &nbsp;
   <a href="mailto:oliveira.paula2051@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_a_message-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email to Paula Oliveira">
+    <img src="https://img.shields.io/badge/Email-Send_Message-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email to oliveira.paula2051@gmail.com">
   </a>
-  <a href="https://paulapsox.github.io/Proj-JS/">
-    <img src="https://img.shields.io/badge/Portfolio-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript exercises portfolio">
+  &nbsp;
+  <a href="https://paulapsox.github.io/Proj-JS/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Live demo of JavaScript coding exercises portfolio">
   </a>
 </p>
 
 <p align="center">
-  📍 Guarulhos, São Paulo, Brazil &nbsp;•&nbsp; 🎯 <b>Junior Front-end</b> and <b>Software Development Internship</b> roles
+  📍 Guarulhos, São Paulo, Brazil &nbsp;•&nbsp; 🎯 Targeting <b>Junior Front-end Developer</b> & <b>Software Development Internship</b> roles
 </p>
 
 ---
 
-## 👩🏻‍💻 About me
+## 👩🏻‍💻 About Me
 
-I am an early-career front-end developer. I build responsive, interactive interfaces with **plain HTML, CSS and JavaScript**, and I publish every project with **open source code and a live demo**.
+I am an early-career Front-end Developer. I design and build responsive, accessible, and interactive interfaces using **semantic HTML, CSS, and vanilla JavaScript**, delivering every single project with **open-source code and live deployment**.
 
-- 🎓 **Technical background:** Systems Analysis and Development (FATEC-SP) and AWS re/Start (Cloud Computing).
-- 💻 **Current training:** Full Stack at DevClub, focused on modern JavaScript (ES6+) and REST API consumption.
-- ♿ **Differentiator:** academic research in **Digital Accessibility and Brazilian Sign Language (Libras)**. In my most recent projects ([Giro Sorteador](https://github.com/paulaPSOx/giro-sorteador), [Netflix clone](https://github.com/paulaPSOx/clone-netflix) and [Marvel](https://github.com/paulaPSOx/marvel-selecao-de-personagem)) I already apply ARIA attributes, focus control and keyboard navigation.
-- 📝 **Documentation:** every repository has a README with a "Por dentro do código" (inside the code) section that explains the real technical decisions, and with future improvements clearly marked as **not implemented yet**. READMEs are written in Portuguese.
+- 🎓 **Technical Foundation:** Systems Analysis and Development (FATEC-SP) and AWS re/Start graduate (Cloud Computing).
+
+- 💻 **Ongoing Training:** Full Stack Development at DevClub, focusing on modern JavaScript (ES6+) and RESTful API consumption.
+
+- ♿ **Digital Accessibility (a11y) Edge:** Academic background in **Digital Accessibility and Sign Language (Libras)**. In my latest projects ([Giro Sorteador](https://github.com/paulaPSOx/giro-sorteador), [Netflix Clone](https://github.com/paulaPSOx/clone-netflix), and [Marvel Character Select](https://github.com/paulaPSOx/marvel-selecao-de-personagem)), I actively implement semantic ARIA attributes, focus trapping, and keyboard-first navigation.
+
+- 📝 **Technical Documentation:** Every repository features an "Under the Hood" breakdown explaining engineering tradeoffs, technical decisions, and a roadmap of upcoming features.
 
 ---
 
-## 🛠️ Tech stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,aws" height="50" alt="Icons for HTML, CSS, JavaScript, Git, GitHub, VS Code and AWS">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,aws" height="50" alt="Tech stack icons: HTML5, CSS3, JavaScript, Git, GitHub, VS Code, and AWS">
 </div>
 
-| Area | What I use |
+<br>
+
+| Domain | What I use |
 | :-- | :-- |
-| **Front-end** | Semantic HTML5, CSS3 (Flexbox, Grid, CSS variables, animations, media queries) and JavaScript ES6+ (DOM, events, `async/await`, `fetch`) |
-| **Browser APIs** | Geolocation, Canvas, Web Crypto, `localStorage`, Audio |
-| **Version control** | Git and GitHub (branches, commits, GitHub Actions and GitHub Pages) |
-| **Cloud** | AWS fundamentals: EC2, S3, IAM and VPC |
-| **Learning** | React and Node.js |
+| **Front-end** | Semantic HTML5, CSS3 (Flexbox, Grid, CSS Variables, keyframe animations, media queries), and JavaScript ES6+ (DOM manipulation, event delegation, `async/await`, `fetch`) |
+| **Web Browser APIs** | Geolocation API, 2D Canvas, Web Crypto API, `localStorage`, Audio API |
+| **Version Control & DevOps** | Git & GitHub (Feature Branch Workflow, Conventional Commits, GitHub Actions CI/CD, GitHub Pages) |
+| **Cloud (AWS)** | Cloud Computing Architecture fundamentals: EC2, S3, IAM, VPC |
+| **Currently Learning** | React.js and Node.js |
 
 ---
 
-## 🌟 Featured projects
+## 🌟 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌦️ Clima Tempo (weather app)</h3>
-      <p>Weather forecast by <b>city</b> or <b>geolocation</b>, using the OpenWeatherMap API. The background changes with the time of day in the searched city's local time.</p>
-      <p><b>Shows:</b> <code>fetch</code> with <code>async/await</code>, the Geolocation API and error handling.</p>
+      <h3>🌦️ Weather Forecast (Clima Tempo)</h3>
+      <p>Real-time weather application searching by <b>city name</b> or automatically detected via <b>native Geolocation</b>, consuming the OpenWeatherMap REST API. Dynamic styling switches the theme based on local sun position and time zones.</p>
+      <p><b>Key Learnings:</b> Asynchronous <code>fetch</code> with <code>async/await</code>, defensive error handling, and Geolocation API integration.</p>
       <p>
-        <a href="https://paulapsox.github.io/clima-tempo/">▶ Live demo</a> &nbsp;•&nbsp;
-        <a href="https://github.com/paulaPSOx/clima-tempo">💻 Code</a>
+        <a href="https://paulapsox.github.io/clima-tempo/" target="_blank" rel="noopener noreferrer">▶ Live Demo</a> &nbsp;•&nbsp;
+        <a href="https://github.com/paulaPSOx/clima-tempo">💻 Source Code</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎲 Giro Sorteador (random draw)</h3>
-      <p>Draws numbers or names, with a no-repeat option, a history saved in the browser and confetti at the end.</p>
-      <p><b>Shows:</b> <code>crypto.getRandomValues</code>, <code>BigInt</code>, input validation, <code>localStorage</code> and ARIA (tabs and menu).</p>
+      <h3>🎲 Lucky Draw (Giro Sorteador)</h3>
+      <p>Custom draw platform for both numerical ranges and name pools, featuring non-repeating results, persistent history across sessions, and celebratory canvas confetti.</p>
+      <p><b>Key Learnings:</b> Cryptographically secure randomness via <code>crypto.getRandomValues</code>, large integers with <code>BigInt</code>, state persistence using <code>localStorage</code>, and ARIA tabs/dialog patterns.</p>
       <p>
-        <a href="https://paulapsox.github.io/giro-sorteador/">▶ Live demo</a> &nbsp;•&nbsp;
-        <a href="https://github.com/paulaPSOx/giro-sorteador">💻 Code</a>
+        <a href="https://paulapsox.github.io/giro-sorteador/" target="_blank" rel="noopener noreferrer">▶ Live Demo</a> &nbsp;•&nbsp;
+        <a href="https://github.com/paulaPSOx/giro-sorteador">💻 Source Code</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎬 PaulaPSOxFlix (streaming clone)</h3>
-      <p>Streaming website with a catalog, carousels, a trailer modal, an FAQ and an avatar menu.</p>
-      <p><b>Shows:</b> a modal with <code>aria-modal</code> and keyboard focus control, an avatar saved with <code>localStorage</code> and a multi-section layout.</p>
+      <h3>🎬 PaulaPSOxFlix (Netflix Clone)</h3>
+      <p>Media streaming home interface featuring horizontal carousel sliders, embedded video trailer modal, collapsible FAQ accordion, and local profile selector.</p>
+      <p><b>Key Learnings:</b> Fully accessible modal with <code>aria-modal="true"</code>, programmatic focus trapping for keyboard accessibility, and user preference caching via <code>localStorage</code>.</p>
       <p>
-        <a href="https://paulapsox.github.io/clone-netflix/">▶ Live demo</a> &nbsp;•&nbsp;
-        <a href="https://github.com/paulaPSOx/clone-netflix">💻 Code</a>
+        <a href="https://paulapsox.github.io/clone-netflix/" target="_blank" rel="noopener noreferrer">▶ Live Demo</a> &nbsp;•&nbsp;
+        <a href="https://github.com/paulaPSOx/clone-netflix">💻 Source Code</a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🍄 Super Mario Bros – The Movie</h3>
-      <p>Four-page website: trailer in a modal, characters with sound, a memory game and star ratings with comments.</p>
-      <p><b>Shows:</b> multi-page navigation, game logic (flipping cards and matching pairs), audio and a form.</p>
+      <p>Interactive 4-page promotional website with trailer modal integration, character audio soundboard, memory pair matching game, and a star-rating review form.</p>
+      <p><b>Key Learnings:</b> Multi-page navigation, state machine logic for card flipping and match verification, audio triggers, and form input validation.</p>
       <p>
-        <a href="https://paulapsox.github.io/super-mario-bros-o-filme/">▶ Live demo</a> &nbsp;•&nbsp;
-        <a href="https://github.com/paulaPSOx/super-mario-bros-o-filme">💻 Code</a>
+        <a href="https://paulapsox.github.io/super-mario-bros-o-filme/" target="_blank" rel="noopener noreferrer">▶ Live Demo</a> &nbsp;•&nbsp;
+        <a href="https://github.com/paulaPSOx/super-mario-bros-o-filme">💻 Source Code</a>
       </p>
     </td>
   </tr>
@@ -107,92 +114,98 @@ I am an early-career front-end developer. I build responsive, interactive interf
 
 ---
 
-## 🧩 Where each skill shows up
+## 🧩 Skill to Project Matrix
 
-| Skill | See it in |
+| Technical Skill | Referenced Repository |
 | :-- | :-- |
-| REST API consumption, `fetch` and Geolocation | [Clima Tempo](https://github.com/paulaPSOx/clima-tempo) |
-| Web Crypto, `BigInt` and data validation | [Giro Sorteador](https://github.com/paulaPSOx/giro-sorteador) |
-| Canvas API and animation with `requestAnimationFrame` | [Fireworks Message Generator](https://github.com/paulaPSOx/fireworks-message-generator) |
-| `localStorage` (preferences and history) | [Giro Sorteador](https://github.com/paulaPSOx/giro-sorteador) • [Netflix clone](https://github.com/paulaPSOx/clone-netflix) • [Pokémon](https://github.com/paulaPSOx/pokemon-lista-de-cartas) • [Sonic x Shadow](https://github.com/paulaPSOx/sonic-x-shadow-generations) |
-| Themes with CSS variables and 3D effects | [Sonic x Shadow](https://github.com/paulaPSOx/sonic-x-shadow-generations) • [Pokémon](https://github.com/paulaPSOx/pokemon-lista-de-cartas) |
-| Accessibility (ARIA, focus and keyboard) | [Giro Sorteador](https://github.com/paulaPSOx/giro-sorteador) • [Netflix clone](https://github.com/paulaPSOx/clone-netflix) • [Marvel](https://github.com/paulaPSOx/marvel-selecao-de-personagem) |
-| Audio and video | [Super Mario](https://github.com/paulaPSOx/super-mario-bros-o-filme) • [Ben 10](https://github.com/paulaPSOx/ben-10) • [Sonic x Shadow](https://github.com/paulaPSOx/sonic-x-shadow-generations) |
-| Automation with GitHub Actions | This profile (animated contribution graph) |
+| **REST API Consumption, `fetch`, and Geolocation** | [Clima Tempo](https://github.com/paulaPSOx/clima-tempo) |
+| **Web Crypto API, `BigInt`, and Data Validation** | [Giro Sorteador](https://github.com/paulaPSOx/giro-sorteador) |
+| **2D Canvas API and `requestAnimationFrame` loops** | [Fireworks Message Generator](https://github.com/paulaPSOx/fireworks-message-generator) |
+| **`localStorage` (State caching and theme persistence)** | [Giro Sorteador](https://github.com/paulaPSOx/giro-sorteador) • [Netflix Clone](https://github.com/paulaPSOx/clone-netflix) • [Pokémon](https://github.com/paulaPSOx/pokemon-cards) • [Sonic x Shadow](https://github.com/paulaPSOx/sonic-shadow-generations) |
+| **Theming with CSS Variables & 3D CSS Perspectives** | [Sonic x Shadow](https://github.com/paulaPSOx/sonic-shadow-generations) • [Pokémon](https://github.com/paulaPSOx/pokemon-cards) |
+| **Digital Accessibility (WAI-ARIA, Focus Trapping, Keyboard UX)** | [Giro Sorteador](https://github.com/paulaPSOx/giro-sorteador) • [Netflix Clone](https://github.com/paulaPSOx/clone-netflix) • [Marvel](https://github.com/paulaPSOx/marvel-selecao-de-personagem) |
+| **Audio and Media Manipulation via JavaScript** | [Super Mario](https://github.com/paulaPSOx/super-mario-bros-o-filme) • [Ben 10](https://github.com/paulaPSOx/ben-10) • [Sonic x Shadow](https://github.com/paulaPSOx/sonic-shadow-generations) |
+| **CI/CD Automation with GitHub Actions** | This repository profile (automated contribution chart generation) |
 
 ---
 
-## 💻 All projects
+## 💻 All Projects
 
-All built with **plain HTML, CSS and JavaScript**, no frameworks. The "What it shows" column sums up the main technical point of each one.
+> Built with **clean semantic HTML, modern CSS, and vanilla JavaScript** without third-party frameworks, solidifying deep web fundamentals.
 
-### Apps with logic and data
+### ⚙️ Applications (Logic & Data)
+| Project | Technical Highlight | Live Demo | Repository |
+| :-- | :-- | :--: | :--: |
+| 🌦️ **Clima Tempo** | Weather API, geolocation tracking, and real-time timezone theming | [Launch](https://paulapsox.github.io/clima-tempo/) | [Code](https://github.com/paulaPSOx/clima-tempo) |
+| 🎲 **Giro Sorteador** | Cryptographic randomness, array manipulation, and ARIA components | [Launch](https://paulapsox.github.io/giro-sorteador/) | [Code](https://github.com/paulaPSOx/giro-sorteador) |
+| 🎆 **Fireworks Generator** | 2D Canvas rendering, simulated particle physics, and motion velocity | [Launch](https://paulapsox.github.io/fireworks-message-generator/) | [Code](https://github.com/paulaPSOx/fireworks-message-generator) |
+| 🚀 **JavaScript Portfolio (Proj-JS)** | 10 foundational algorithms: BMI, guessing game, digital clock, etc. | [Launch](https://paulapsox.github.io/Proj-JS/) | [Code](https://github.com/paulaPSOx/Proj-JS) |
 
-| Project | What it shows | Demo | Code |
-| :-- | :-- | :-: | :-: |
-| 🌦️ **Clima Tempo** | REST API, geolocation and theme by local time | [Open](https://paulapsox.github.io/clima-tempo/) | [Repository](https://github.com/paulaPSOx/clima-tempo) |
-| 🎲 **Giro Sorteador** | No-repeat draws, Web Crypto, history and ARIA | [Open](https://paulapsox.github.io/giro-sorteador/) | [Repository](https://github.com/paulaPSOx/giro-sorteador) |
-| 🎆 **Fireworks Message Generator** | Canvas, particles and letter animation | [Open](https://paulapsox.github.io/fireworks-message-generator/) | [Repository](https://github.com/paulaPSOx/fireworks-message-generator) |
-| 🚀 **JavaScript Portfolio (Proj-JS)** | 10 exercises: BMI, grade average, number guessing game, clock and gallery | [Open](https://paulapsox.github.io/Proj-JS/) | [Repository](https://github.com/paulaPSOx/Proj-JS) |
+### 🖼️ UI Clones & Layouts
+| Project | Technical Highlight | Live Demo | Repository |
+| :-- | :-- | :--: | :--: |
+| 🎬 **PaulaPSOxFlix (Netflix Clone)** | Responsive carousels, accessible modal dialogues, and local caching | [Launch](https://paulapsox.github.io/clone-netflix/) | [Code](https://github.com/paulaPSOx/clone-netflix) |
+| 📸 **Instagram UI Clone** | High-fidelity screen clone, defensive form input parsing, and slideshow | [Launch](https://paulapsox.github.io/instagram-login-clone/) | [Code](https://github.com/paulaPSOx/instagram-login-clone) |
 
-### Interfaces and clones
+### 🎮 Themed & Interactive Experiences
+| Project | Technical Highlight | Live Demo | Repository |
+| :-- | :-- | :--: | :--: |
+| 🍄 **Super Mario Bros – The Movie** | 4 connected pages, card-matching memory logic, and custom audio triggers | [Launch](https://paulapsox.github.io/super-mario-bros-o-filme/) | [Code](https://github.com/paulaPSOx/super-mario-bros-o-filme) |
+| 🦸 **Marvel – Character Select** | 2-player local selection logic, choice lock-in, and keyboard input routing | [Launch](https://paulapsox.github.io/marvel-selecao-de-personagem/) | [Code](https://github.com/paulaPSOx/marvel-selecao-de-personagem) |
+| 🐞 **Miraculous Ladybug** | Multi-page catalog navigation, responsive hero layouts, and animations | [Launch](https://paulapsox.github.io/miraculous-ladybug/) | [Code](https://github.com/paulaPSOx/miraculous-ladybug) |
+| 🔴 **Pokémon – Card Showcase** | 3D tilt perspective animations on hover and dynamic light/dark theme switch | [Launch](https://paulapsox.github.io/pokemon-cards/) | [Code](https://github.com/paulaPSOx/pokemon-cards) |
+| ⚡ **Sonic x Shadow Generations** | Design System architected with CSS variables and autonomous image rotator | [Launch](https://paulapsox.github.io/sonic-shadow-generations/) | [Code](https://github.com/paulaPSOx/sonic-shadow-generations) |
+| ⌚ **Ben 10** | Radial radial-menu layout calculated via sine and cosine trigonometry | [Launch](https://paulapsox.github.io/ben-10/) | [Code](https://github.com/paulaPSOx/ben-10) |
+| 🚲 **Stranger Things** | Fullscreen banner slider and art-direction image swaps via media queries | [Launch](https://paulapsox.github.io/stranger-things/) | [Code](https://github.com/paulaPSOx/stranger-things) |
+| 🧚‍♀️ **Winx Club** | Dynamic state toggling driven strictly by HTML `data-*` attributes | [Launch](https://paulapsox.github.io/clube-das-winx/) | [Code](https://github.com/paulaPSOx/clube-das-winx) |
+| 🪐 **The Solar System** | Interactive planetary viewer with state-driven view switches | [Launch](https://paulapsox.github.io/sistema-solar/) | [Code](https://github.com/paulaPSOx/sistema-solar) |
 
-| Project | What it shows | Demo | Code |
-| :-- | :-- | :-: | :-: |
-| 🎬 **PaulaPSOxFlix (Netflix clone)** | Carousels, accessible modal, FAQ and saved avatar | [Open](https://paulapsox.github.io/clone-netflix/) | [Repository](https://github.com/paulaPSOx/clone-netflix) |
-| 📸 **Instagram UI Clone** | Login screen, form validation and slideshow | [Open](https://paulapsox.github.io/login-instagram/) | [Repository](https://github.com/paulaPSOx/login-instagram) |
-
-### Interactive themed projects
-
-| Project | What it shows | Demo | Code |
-| :-- | :-- | :-: | :-: |
-| 🍄 **Super Mario Bros – The Movie** | 4 pages, memory game, audio and ratings | [Open](https://paulapsox.github.io/super-mario-bros-o-filme/) | [Repository](https://github.com/paulaPSOx/super-mario-bros-o-filme) |
-| 🦸 **Marvel – Character Select** | Two-player selection, locked choices and keyboard support | [Open](https://paulapsox.github.io/marvel-selecao-de-personagem/) | [Repository](https://github.com/paulaPSOx/marvel-selecao-de-personagem) |
-| 🐞 **Miraculous Ladybug & Cat Noir** | 5 pages with hero, villain and kwami selection | [Open](https://paulapsox.github.io/miraculous-ladybug-catnoir/) | [Repository](https://github.com/paulaPSOx/miraculous-ladybug-catnoir) |
-| 🔴 **Pokémon – Card List** | 18 cards with a 3D flip and a saved light/dark theme | [Open](https://paulapsox.github.io/pokemon-lista-de-cartas/) | [Repository](https://github.com/paulaPSOx/pokemon-lista-de-cartas) |
-| ⚡ **Sonic x Shadow Generations** | Two themes with CSS variables and an automatic carousel | [Open](https://paulapsox.github.io/sonic-x-shadow-generations/) | [Repository](https://github.com/paulaPSOx/sonic-x-shadow-generations) |
-| ⌚ **Ben 10** | Radial menu built with trigonometry, alien guide and a game | [Open](https://paulapsox.github.io/ben-10/) | [Repository](https://github.com/paulaPSOx/ben-10) |
-| 🚲 **Stranger Things** | Full-screen carousel and images swapped by screen width | [Open](https://paulapsox.github.io/stranger-things/) | [Repository](https://github.com/paulaPSOx/stranger-things) |
-| 🧚‍♀️ **O Clube das Winx** | Selection of 6 fairies in 2 versions using `data-*` attributes | [Open](https://paulapsox.github.io/o-clube-das-winx/) | [Repository](https://github.com/paulaPSOx/o-clube-das-winx) |
-| 🪐 **O Sistema Solar (Solar System)** | 10 screens (the Sun and the planets) switched by buttons | [Open](https://paulapsox.github.io/o-sistema-solar/) | [Repository](https://github.com/paulaPSOx/o-sistema-solar) |
-
-> The themed projects are independent, made for study and portfolio purposes. Characters, images and sounds belong to their respective owners.
+> *Disclaimer: All themed projects are created strictly for educational and portfolio demonstration purposes. All characters, brands, and multimedia assets belong to their respective copyright holders.*
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
-- **Systems Analysis and Development** — FATEC-SP
-- **AWS re/Start** — Cloud Computing (EC2, S3, IAM and VPC)
-- **Full Stack** — DevClub (in progress)
+- **Associate Degree in Systems Analysis and Development (ADS)** — São Paulo State Faculty of Technology (FATEC-SP)
+
+- **AWS re/Start Graduate** — Cloud Computing fundamentals (EC2, S3, IAM, and VPC)
+
+- **Full Stack Web Development** — DevClub (currently enrolled)
 
 ---
 
-## 📬 Contact
+## 📬 Let's Connect!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/oliveiraspaula">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Paula Oliveira on LinkedIn">
+<p align="center">
+  <a href="https://www.linkedin.com/in/oliveiraspaula" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Paula_Oliveira-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Paula Oliveira on LinkedIn">
   </a>
+  &nbsp;
   <a href="mailto:oliveira.paula2051@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email to Paula Oliveira">
+    <img src="https://img.shields.io/badge/Email-Send_Message-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email to Paula Oliveira">
   </a>
-</div>
+</p>
 
 ---
 
-## 👾 Fun fact: my commits become a Pac-Man game
+## 👾 Contribution Graph (Pac-Man)
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulaPSOx/paulaPSOx/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulaPSOx/paulaPSOx/output/pacman-contribution-graph.svg">
-    <img alt="GitHub contribution graph turned into a Pac-Man game" src="https://raw.githubusercontent.com/paulaPSOx/paulaPSOx/output/pacman-contribution-graph.svg">
+    <img alt="Interactive GitHub contribution graph visualised as a Pac-Man game eating commits" src="https://raw.githubusercontent.com/paulaPSOx/paulaPSOx/output/pacman-contribution-graph.svg">
   </picture>
+  <br><br>
+  <a href="https://github.com/paulaPSOx/paulaPSOx/actions">
+    <img src="https://img.shields.io/badge/GitHub_Actions-Automated_Pipeline-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Badge confirming GitHub Actions pipeline is active and healthy in this repository">
+  </a>
   <br>
-  <sub>Generated automatically every day by a GitHub Actions workflow in this repository.</sub>
+  <sub>Automated workflow executed periodically by GitHub Actions to pull from the <code>output</code> branch and render the vector SVG based on commit history.</sub>
 </div>
 
+<br>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1038,50:5B21B6,100:8B5CF6&height=100&section=footer" width="100%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1038,50:5B21B6,100:8B5CF6&height=100&section=footer" width="100%" alt="Purple decorative wave marking the bottom of the profile page">
 </p>
